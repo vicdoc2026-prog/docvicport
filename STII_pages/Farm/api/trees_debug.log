@@ -1,0 +1,712 @@
+[2025-10-30 01:02:10] ========== TREES API CALLED ==========
+[2025-10-30 01:02:10] Request Method | Data: "GET"
+[2025-10-30 01:02:10] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-10-30 01:02:10] GET Parameters | Data: {"action":"list"}
+[2025-10-30 01:02:10] POST Parameters | Data: []
+[2025-10-30 01:02:10] Attempting to include database connection file
+[2025-10-30 01:02:10] Database connection file included successfully
+[2025-10-30 01:02:10] PDO connection exists | Data: "PDO"
+[2025-10-30 01:02:10] Action requested | Data: "list"
+[2025-10-30 01:02:10] LIST: Starting listTrees function
+[2025-10-30 01:02:10] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-10-30 01:02:10] LIST: Statement prepared
+[2025-10-30 01:02:10] LIST: Query executed
+[2025-10-30 01:02:10] LIST: Records fetched | Data: 6
+[2025-10-30 01:02:10] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-10-30 01:02:10] ========== TREES API COMPLETED ==========
+
+[2025-11-03 01:27:34] ========== TREES API CALLED ==========
+[2025-11-03 01:27:34] Request Method | Data: "GET"
+[2025-11-03 01:27:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-03 01:27:34] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:27:34] POST Parameters | Data: []
+[2025-11-03 01:27:34] Attempting to include database connection file
+[2025-11-03 01:27:34] Database connection file included successfully
+[2025-11-03 01:27:34] PDO connection exists | Data: "PDO"
+[2025-11-03 01:27:34] Action requested | Data: "list"
+[2025-11-03 01:27:34] LIST: Starting listTrees function
+[2025-11-03 01:27:34] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-03 01:27:34] LIST: Statement prepared
+[2025-11-03 01:27:34] LIST: Query executed
+[2025-11-03 01:27:34] LIST: Records fetched | Data: 6
+[2025-11-03 01:27:34] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-03 01:27:34] ========== TREES API COMPLETED ==========
+
+[2025-11-03 01:28:11] ========== TREES API CALLED ==========
+[2025-11-03 01:28:11] Request Method | Data: "GET"
+[2025-11-03 01:28:11] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-03 01:28:11] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:28:11] POST Parameters | Data: []
+[2025-11-03 01:28:11] Attempting to include database connection file
+[2025-11-03 01:28:11] Database connection file included successfully
+[2025-11-03 01:28:11] PDO connection exists | Data: "PDO"
+[2025-11-03 01:28:11] Action requested | Data: "list"
+[2025-11-03 01:28:11] LIST: Starting listTrees function
+[2025-11-03 01:28:11] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-03 01:28:11] LIST: Statement prepared
+[2025-11-03 01:28:11] LIST: Query executed
+[2025-11-03 01:28:11] LIST: Records fetched | Data: 6
+[2025-11-03 01:28:11] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-03 01:28:11] ========== TREES API COMPLETED ==========
+
+[2025-11-03 01:28:55] ========== TREES API CALLED ==========
+[2025-11-03 01:28:55] Request Method | Data: "GET"
+[2025-11-03 01:28:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-03 01:28:55] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:28:55] POST Parameters | Data: []
+[2025-11-03 01:28:55] Attempting to include database connection file
+[2025-11-03 01:28:55] Database connection file included successfully
+[2025-11-03 01:28:55] PDO connection exists | Data: "PDO"
+[2025-11-03 01:28:55] Action requested | Data: "list"
+[2025-11-03 01:28:55] LIST: Starting listTrees function
+[2025-11-03 01:28:55] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-03 01:28:55] LIST: Statement prepared
+[2025-11-03 01:28:55] LIST: Query executed
+[2025-11-03 01:28:55] LIST: Records fetched | Data: 6
+[2025-11-03 01:28:55] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-03 01:28:55] ========== TREES API COMPLETED ==========
+
+[2025-11-03 01:31:45] ========== TREES API CALLED ==========
+[2025-11-03 01:31:45] Request Method | Data: "GET"
+[2025-11-03 01:31:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-03 01:31:45] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:31:45] POST Parameters | Data: []
+[2025-11-03 01:31:45] Attempting to include database connection file
+[2025-11-03 01:31:45] Database connection file included successfully
+[2025-11-03 01:31:45] PDO connection exists | Data: "PDO"
+[2025-11-03 01:31:45] Action requested | Data: "list"
+[2025-11-03 01:31:45] LIST: Starting listTrees function
+[2025-11-03 01:31:45] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-03 01:31:45] LIST: Statement prepared
+[2025-11-03 01:31:45] LIST: Query executed
+[2025-11-03 01:31:45] LIST: Records fetched | Data: 6
+[2025-11-03 01:31:45] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-03 01:31:45] ========== TREES API COMPLETED ==========
+
+[2025-11-04 07:34:39] ========== TREES API CALLED ==========
+[2025-11-04 07:34:39] Request Method | Data: "GET"
+[2025-11-04 07:34:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-04 07:34:39] GET Parameters | Data: {"action":"list"}
+[2025-11-04 07:34:39] POST Parameters | Data: []
+[2025-11-04 07:34:39] Attempting to include database connection file
+[2025-11-04 07:34:39] Database connection file included successfully
+[2025-11-04 07:34:39] PDO connection exists | Data: "PDO"
+[2025-11-04 07:34:39] Action requested | Data: "list"
+[2025-11-04 07:34:39] LIST: Starting listTrees function
+[2025-11-04 07:34:39] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-04 07:34:39] LIST: Statement prepared
+[2025-11-04 07:34:39] LIST: Query executed
+[2025-11-04 07:34:39] LIST: Records fetched | Data: 6
+[2025-11-04 07:34:39] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-04 07:34:39] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:03:38] ========== TREES API CALLED ==========
+[2025-11-06 01:03:38] Request Method | Data: "GET"
+[2025-11-06 01:03:38] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:03:38] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:03:38] POST Parameters | Data: []
+[2025-11-06 01:03:38] Attempting to include database connection file
+[2025-11-06 01:03:38] Database connection file included successfully
+[2025-11-06 01:03:38] PDO connection exists | Data: "PDO"
+[2025-11-06 01:03:38] Action requested | Data: "list"
+[2025-11-06 01:03:38] LIST: Starting listTrees function
+[2025-11-06 01:03:38] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:03:38] LIST: Statement prepared
+[2025-11-06 01:03:38] LIST: Query executed
+[2025-11-06 01:03:38] LIST: Records fetched | Data: 6
+[2025-11-06 01:03:38] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:03:38] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:04:40] ========== TREES API CALLED ==========
+[2025-11-06 01:04:40] Request Method | Data: "GET"
+[2025-11-06 01:04:40] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:04:40] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:04:40] POST Parameters | Data: []
+[2025-11-06 01:04:40] Attempting to include database connection file
+[2025-11-06 01:04:40] Database connection file included successfully
+[2025-11-06 01:04:40] PDO connection exists | Data: "PDO"
+[2025-11-06 01:04:40] Action requested | Data: "list"
+[2025-11-06 01:04:40] LIST: Starting listTrees function
+[2025-11-06 01:04:40] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:04:40] LIST: Statement prepared
+[2025-11-06 01:04:40] LIST: Query executed
+[2025-11-06 01:04:40] LIST: Records fetched | Data: 6
+[2025-11-06 01:04:40] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:04:40] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:13:26] ========== TREES API CALLED ==========
+[2025-11-06 01:13:26] Request Method | Data: "GET"
+[2025-11-06 01:13:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:13:26] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:26] POST Parameters | Data: []
+[2025-11-06 01:13:26] Attempting to include database connection file
+[2025-11-06 01:13:26] Database connection file included successfully
+[2025-11-06 01:13:26] PDO connection exists | Data: "PDO"
+[2025-11-06 01:13:26] Action requested | Data: "list"
+[2025-11-06 01:13:26] LIST: Starting listTrees function
+[2025-11-06 01:13:26] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:13:26] LIST: Statement prepared
+[2025-11-06 01:13:26] LIST: Query executed
+[2025-11-06 01:13:26] LIST: Records fetched | Data: 6
+[2025-11-06 01:13:26] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:13:26] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:13:54] ========== TREES API CALLED ==========
+[2025-11-06 01:13:54] Request Method | Data: "GET"
+[2025-11-06 01:13:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:13:54] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:54] POST Parameters | Data: []
+[2025-11-06 01:13:54] Attempting to include database connection file
+[2025-11-06 01:13:54] Database connection file included successfully
+[2025-11-06 01:13:54] PDO connection exists | Data: "PDO"
+[2025-11-06 01:13:54] Action requested | Data: "list"
+[2025-11-06 01:13:54] LIST: Starting listTrees function
+[2025-11-06 01:13:54] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:13:54] LIST: Statement prepared
+[2025-11-06 01:13:54] LIST: Query executed
+[2025-11-06 01:13:54] LIST: Records fetched | Data: 6
+[2025-11-06 01:13:54] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:13:54] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:14:03] ========== TREES API CALLED ==========
+[2025-11-06 01:14:03] Request Method | Data: "GET"
+[2025-11-06 01:14:03] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:14:03] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:14:03] POST Parameters | Data: []
+[2025-11-06 01:14:03] Attempting to include database connection file
+[2025-11-06 01:14:03] Database connection file included successfully
+[2025-11-06 01:14:03] PDO connection exists | Data: "PDO"
+[2025-11-06 01:14:03] Action requested | Data: "list"
+[2025-11-06 01:14:03] LIST: Starting listTrees function
+[2025-11-06 01:14:03] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:14:03] LIST: Statement prepared
+[2025-11-06 01:14:03] LIST: Query executed
+[2025-11-06 01:14:03] LIST: Records fetched | Data: 6
+[2025-11-06 01:14:03] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:14:03] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:27:45] ========== TREES API CALLED ==========
+[2025-11-06 01:27:45] Request Method | Data: "GET"
+[2025-11-06 01:27:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:27:45] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:27:45] POST Parameters | Data: []
+[2025-11-06 01:27:45] Attempting to include database connection file
+[2025-11-06 01:27:45] Database connection file included successfully
+[2025-11-06 01:27:45] PDO connection exists | Data: "PDO"
+[2025-11-06 01:27:45] Action requested | Data: "list"
+[2025-11-06 01:27:45] LIST: Starting listTrees function
+[2025-11-06 01:27:45] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:27:45] LIST: Statement prepared
+[2025-11-06 01:27:45] LIST: Query executed
+[2025-11-06 01:27:45] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:45] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:27:45] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:27:52] ========== TREES API CALLED ==========
+[2025-11-06 01:27:52] Request Method | Data: "GET"
+[2025-11-06 01:27:52] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:27:52] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:27:52] POST Parameters | Data: []
+[2025-11-06 01:27:52] Attempting to include database connection file
+[2025-11-06 01:27:52] Database connection file included successfully
+[2025-11-06 01:27:52] PDO connection exists | Data: "PDO"
+[2025-11-06 01:27:52] Action requested | Data: "list"
+[2025-11-06 01:27:52] LIST: Starting listTrees function
+[2025-11-06 01:27:52] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:27:52] LIST: Statement prepared
+[2025-11-06 01:27:52] LIST: Query executed
+[2025-11-06 01:27:52] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:52] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:27:52] ========== TREES API COMPLETED ==========
+
+[2025-11-06 01:27:54] ========== TREES API CALLED ==========
+[2025-11-06 01:27:54] Request Method | Data: "GET"
+[2025-11-06 01:27:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-06 01:27:54] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:27:54] POST Parameters | Data: []
+[2025-11-06 01:27:54] Attempting to include database connection file
+[2025-11-06 01:27:54] Database connection file included successfully
+[2025-11-06 01:27:54] PDO connection exists | Data: "PDO"
+[2025-11-06 01:27:54] Action requested | Data: "list"
+[2025-11-06 01:27:54] LIST: Starting listTrees function
+[2025-11-06 01:27:54] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-06 01:27:54] LIST: Statement prepared
+[2025-11-06 01:27:54] LIST: Query executed
+[2025-11-06 01:27:54] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:54] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-06 01:27:54] ========== TREES API COMPLETED ==========
+
+[2025-11-10 01:12:14] ========== TREES API CALLED ==========
+[2025-11-10 01:12:14] Request Method | Data: "GET"
+[2025-11-10 01:12:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-10 01:12:14] GET Parameters | Data: {"action":"list"}
+[2025-11-10 01:12:14] POST Parameters | Data: []
+[2025-11-10 01:12:14] Attempting to include database connection file
+[2025-11-10 01:12:14] Database connection file included successfully
+[2025-11-10 01:12:14] PDO connection exists | Data: "PDO"
+[2025-11-10 01:12:14] Action requested | Data: "list"
+[2025-11-10 01:12:14] LIST: Starting listTrees function
+[2025-11-10 01:12:14] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-10 01:12:14] LIST: Statement prepared
+[2025-11-10 01:12:14] LIST: Query executed
+[2025-11-10 01:12:14] LIST: Records fetched | Data: 6
+[2025-11-10 01:12:14] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-10 01:12:14] ========== TREES API COMPLETED ==========
+
+[2025-11-10 03:47:49] ========== TREES API CALLED ==========
+[2025-11-10 03:47:49] Request Method | Data: "GET"
+[2025-11-10 03:47:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-10 03:47:49] GET Parameters | Data: {"action":"list"}
+[2025-11-10 03:47:49] POST Parameters | Data: []
+[2025-11-10 03:47:49] Attempting to include database connection file
+[2025-11-10 03:47:49] Database connection file included successfully
+[2025-11-10 03:47:49] PDO connection exists | Data: "PDO"
+[2025-11-10 03:47:49] Action requested | Data: "list"
+[2025-11-10 03:47:49] LIST: Starting listTrees function
+[2025-11-10 03:47:49] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-10 03:47:49] LIST: Statement prepared
+[2025-11-10 03:47:49] LIST: Query executed
+[2025-11-10 03:47:49] LIST: Records fetched | Data: 6
+[2025-11-10 03:47:49] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-10 03:47:49] ========== TREES API COMPLETED ==========
+
+[2025-11-10 04:08:14] ========== TREES API CALLED ==========
+[2025-11-10 04:08:14] Request Method | Data: "GET"
+[2025-11-10 04:08:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-10 04:08:14] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:08:14] POST Parameters | Data: []
+[2025-11-10 04:08:14] Attempting to include database connection file
+[2025-11-10 04:08:14] Database connection file included successfully
+[2025-11-10 04:08:14] PDO connection exists | Data: "PDO"
+[2025-11-10 04:08:14] Action requested | Data: "list"
+[2025-11-10 04:08:14] LIST: Starting listTrees function
+[2025-11-10 04:08:14] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-10 04:08:14] LIST: Statement prepared
+[2025-11-10 04:08:14] LIST: Query executed
+[2025-11-10 04:08:14] LIST: Records fetched | Data: 6
+[2025-11-10 04:08:14] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-10 04:08:14] ========== TREES API COMPLETED ==========
+
+[2025-11-10 04:29:25] ========== TREES API CALLED ==========
+[2025-11-10 04:29:25] Request Method | Data: "GET"
+[2025-11-10 04:29:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-10 04:29:25] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:29:25] POST Parameters | Data: []
+[2025-11-10 04:29:25] Attempting to include database connection file
+[2025-11-10 04:29:25] Database connection file included successfully
+[2025-11-10 04:29:25] PDO connection exists | Data: "PDO"
+[2025-11-10 04:29:25] Action requested | Data: "list"
+[2025-11-10 04:29:25] LIST: Starting listTrees function
+[2025-11-10 04:29:25] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-10 04:29:25] LIST: Statement prepared
+[2025-11-10 04:29:25] LIST: Query executed
+[2025-11-10 04:29:25] LIST: Records fetched | Data: 6
+[2025-11-10 04:29:25] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana100","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-10-30 07:34:53"}
+[2025-11-10 04:29:25] ========== TREES API COMPLETED ==========
+
+[2025-11-11 02:52:37] ========== TREES API CALLED ==========
+[2025-11-11 02:52:37] Request Method | Data: "GET"
+[2025-11-11 02:52:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 02:52:37] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:52:38] POST Parameters | Data: []
+[2025-11-11 02:52:38] Attempting to include database connection file
+[2025-11-11 02:52:38] Database connection file included successfully
+[2025-11-11 02:52:38] PDO connection exists | Data: "PDO"
+[2025-11-11 02:52:38] Action requested | Data: "list"
+[2025-11-11 02:52:38] LIST: Starting listTrees function
+[2025-11-11 02:52:38] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 02:52:38] LIST: Statement prepared
+[2025-11-11 02:52:38] LIST: Query executed
+[2025-11-11 02:52:38] LIST: Records fetched | Data: 6
+[2025-11-11 02:52:38] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-11-10 13:49:54"}
+[2025-11-11 02:52:38] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:02] ========== TREES API CALLED ==========
+[2025-11-11 03:05:02] Request Method | Data: "GET"
+[2025-11-11 03:05:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:02] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:02] POST Parameters | Data: []
+[2025-11-11 03:05:02] Attempting to include database connection file
+[2025-11-11 03:05:02] Database connection file included successfully
+[2025-11-11 03:05:02] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:02] Action requested | Data: "list"
+[2025-11-11 03:05:02] LIST: Starting listTrees function
+[2025-11-11 03:05:02] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:02] LIST: Statement prepared
+[2025-11-11 03:05:02] LIST: Query executed
+[2025-11-11 03:05:02] LIST: Records fetched | Data: 6
+[2025-11-11 03:05:02] LIST: Sample record | Data: {"id":6,"year":2025,"month":11,"tree_type":"banana","quantity":3,"notes":"","created_at":"2025-10-30 07:34:53","updated_at":"2025-11-10 13:49:54"}
+[2025-11-11 03:05:02] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:06] ========== TREES API CALLED ==========
+[2025-11-11 03:05:06] Request Method | Data: "DELETE"
+[2025-11-11 03:05:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=delete&id=6"
+[2025-11-11 03:05:06] GET Parameters | Data: {"action":"delete","id":"6"}
+[2025-11-11 03:05:06] POST Parameters | Data: []
+[2025-11-11 03:05:06] Attempting to include database connection file
+[2025-11-11 03:05:06] Database connection file included successfully
+[2025-11-11 03:05:06] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:06] Action requested | Data: "delete"
+[2025-11-11 03:05:06] DELETE: Starting deleteTree function
+[2025-11-11 03:05:06] DELETE: ID parameter | Data: "6"
+[2025-11-11 03:05:06] DELETE: Rows affected | Data: 1
+[2025-11-11 03:05:06] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:06] ========== TREES API CALLED ==========
+[2025-11-11 03:05:06] Request Method | Data: "GET"
+[2025-11-11 03:05:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:06] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:06] POST Parameters | Data: []
+[2025-11-11 03:05:06] Attempting to include database connection file
+[2025-11-11 03:05:06] Database connection file included successfully
+[2025-11-11 03:05:06] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:06] Action requested | Data: "list"
+[2025-11-11 03:05:06] LIST: Starting listTrees function
+[2025-11-11 03:05:06] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:06] LIST: Statement prepared
+[2025-11-11 03:05:06] LIST: Query executed
+[2025-11-11 03:05:06] LIST: Records fetched | Data: 5
+[2025-11-11 03:05:06] LIST: Sample record | Data: {"id":3,"year":2025,"month":10,"tree_type":"Banana","quantity":100,"notes":"Fast growing banana plants","created_at":"2025-10-30 07:26:30","updated_at":"2025-10-30 07:26:30"}
+[2025-11-11 03:05:06] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:08] ========== TREES API CALLED ==========
+[2025-11-11 03:05:08] Request Method | Data: "DELETE"
+[2025-11-11 03:05:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=delete&id=3"
+[2025-11-11 03:05:08] GET Parameters | Data: {"action":"delete","id":"3"}
+[2025-11-11 03:05:08] POST Parameters | Data: []
+[2025-11-11 03:05:08] Attempting to include database connection file
+[2025-11-11 03:05:08] Database connection file included successfully
+[2025-11-11 03:05:08] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:08] Action requested | Data: "delete"
+[2025-11-11 03:05:08] DELETE: Starting deleteTree function
+[2025-11-11 03:05:08] DELETE: ID parameter | Data: "3"
+[2025-11-11 03:05:08] DELETE: Rows affected | Data: 1
+[2025-11-11 03:05:08] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:08] ========== TREES API CALLED ==========
+[2025-11-11 03:05:08] Request Method | Data: "GET"
+[2025-11-11 03:05:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:08] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:08] POST Parameters | Data: []
+[2025-11-11 03:05:08] Attempting to include database connection file
+[2025-11-11 03:05:08] Database connection file included successfully
+[2025-11-11 03:05:08] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:08] Action requested | Data: "list"
+[2025-11-11 03:05:08] LIST: Starting listTrees function
+[2025-11-11 03:05:08] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:08] LIST: Statement prepared
+[2025-11-11 03:05:08] LIST: Query executed
+[2025-11-11 03:05:08] LIST: Records fetched | Data: 4
+[2025-11-11 03:05:08] LIST: Sample record | Data: {"id":1,"year":2025,"month":10,"tree_type":"Mango","quantity":50,"notes":"Newly planted mango trees","created_at":"2025-10-30 07:26:30","updated_at":"2025-10-30 07:26:30"}
+[2025-11-11 03:05:08] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:10] ========== TREES API CALLED ==========
+[2025-11-11 03:05:10] Request Method | Data: "DELETE"
+[2025-11-11 03:05:10] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=delete&id=1"
+[2025-11-11 03:05:10] GET Parameters | Data: {"action":"delete","id":"1"}
+[2025-11-11 03:05:10] POST Parameters | Data: []
+[2025-11-11 03:05:10] Attempting to include database connection file
+[2025-11-11 03:05:10] Database connection file included successfully
+[2025-11-11 03:05:10] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:10] Action requested | Data: "delete"
+[2025-11-11 03:05:10] DELETE: Starting deleteTree function
+[2025-11-11 03:05:10] DELETE: ID parameter | Data: "1"
+[2025-11-11 03:05:10] DELETE: Rows affected | Data: 1
+[2025-11-11 03:05:10] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:10] ========== TREES API CALLED ==========
+[2025-11-11 03:05:10] Request Method | Data: "GET"
+[2025-11-11 03:05:10] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:10] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:10] POST Parameters | Data: []
+[2025-11-11 03:05:10] Attempting to include database connection file
+[2025-11-11 03:05:10] Database connection file included successfully
+[2025-11-11 03:05:10] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:10] Action requested | Data: "list"
+[2025-11-11 03:05:10] LIST: Starting listTrees function
+[2025-11-11 03:05:10] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:10] LIST: Statement prepared
+[2025-11-11 03:05:10] LIST: Query executed
+[2025-11-11 03:05:10] LIST: Records fetched | Data: 3
+[2025-11-11 03:05:10] LIST: Sample record | Data: {"id":2,"year":2025,"month":9,"tree_type":"Coconut","quantity":30,"notes":"Mature coconut trees","created_at":"2025-10-30 07:26:30","updated_at":"2025-10-30 07:26:30"}
+[2025-11-11 03:05:10] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:11] ========== TREES API CALLED ==========
+[2025-11-11 03:05:11] Request Method | Data: "DELETE"
+[2025-11-11 03:05:11] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=delete&id=2"
+[2025-11-11 03:05:11] GET Parameters | Data: {"action":"delete","id":"2"}
+[2025-11-11 03:05:11] POST Parameters | Data: []
+[2025-11-11 03:05:11] Attempting to include database connection file
+[2025-11-11 03:05:11] Database connection file included successfully
+[2025-11-11 03:05:11] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:11] Action requested | Data: "delete"
+[2025-11-11 03:05:11] DELETE: Starting deleteTree function
+[2025-11-11 03:05:11] DELETE: ID parameter | Data: "2"
+[2025-11-11 03:05:11] DELETE: Rows affected | Data: 1
+[2025-11-11 03:05:11] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:11] ========== TREES API CALLED ==========
+[2025-11-11 03:05:11] Request Method | Data: "GET"
+[2025-11-11 03:05:11] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:11] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:11] POST Parameters | Data: []
+[2025-11-11 03:05:11] Attempting to include database connection file
+[2025-11-11 03:05:11] Database connection file included successfully
+[2025-11-11 03:05:11] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:11] Action requested | Data: "list"
+[2025-11-11 03:05:11] LIST: Starting listTrees function
+[2025-11-11 03:05:11] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:11] LIST: Statement prepared
+[2025-11-11 03:05:11] LIST: Query executed
+[2025-11-11 03:05:11] LIST: Records fetched | Data: 2
+[2025-11-11 03:05:11] LIST: Sample record | Data: {"id":4,"year":2025,"month":8,"tree_type":"Papaya","quantity":25,"notes":"Papaya plantation","created_at":"2025-10-30 07:26:30","updated_at":"2025-10-30 07:26:30"}
+[2025-11-11 03:05:11] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:14] ========== TREES API CALLED ==========
+[2025-11-11 03:05:14] Request Method | Data: "DELETE"
+[2025-11-11 03:05:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=delete&id=4"
+[2025-11-11 03:05:14] GET Parameters | Data: {"action":"delete","id":"4"}
+[2025-11-11 03:05:14] POST Parameters | Data: []
+[2025-11-11 03:05:14] Attempting to include database connection file
+[2025-11-11 03:05:14] Database connection file included successfully
+[2025-11-11 03:05:14] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:14] Action requested | Data: "delete"
+[2025-11-11 03:05:14] DELETE: Starting deleteTree function
+[2025-11-11 03:05:14] DELETE: ID parameter | Data: "4"
+[2025-11-11 03:05:14] DELETE: Rows affected | Data: 1
+[2025-11-11 03:05:14] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:14] ========== TREES API CALLED ==========
+[2025-11-11 03:05:14] Request Method | Data: "GET"
+[2025-11-11 03:05:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:14] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:14] POST Parameters | Data: []
+[2025-11-11 03:05:14] Attempting to include database connection file
+[2025-11-11 03:05:14] Database connection file included successfully
+[2025-11-11 03:05:14] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:14] Action requested | Data: "list"
+[2025-11-11 03:05:14] LIST: Starting listTrees function
+[2025-11-11 03:05:14] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:14] LIST: Statement prepared
+[2025-11-11 03:05:14] LIST: Query executed
+[2025-11-11 03:05:14] LIST: Records fetched | Data: 1
+[2025-11-11 03:05:14] LIST: Sample record | Data: {"id":5,"year":2024,"month":12,"tree_type":"Guava","quantity":40,"notes":"Guava orchard","created_at":"2025-10-30 07:26:30","updated_at":"2025-10-30 07:26:30"}
+[2025-11-11 03:05:14] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:49] ========== TREES API CALLED ==========
+[2025-11-11 03:05:49] Request Method | Data: "POST"
+[2025-11-11 03:05:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=add"
+[2025-11-11 03:05:49] GET Parameters | Data: {"action":"add"}
+[2025-11-11 03:05:49] POST Parameters | Data: []
+[2025-11-11 03:05:49] Attempting to include database connection file
+[2025-11-11 03:05:49] Database connection file included successfully
+[2025-11-11 03:05:49] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:49] Action requested | Data: "add"
+[2025-11-11 03:05:49] CREATE: Starting createTree function
+[2025-11-11 03:05:49] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"9\",\"tree_type\":\"Rubber\",\"quantity\":\"1135\",\"notes\":\"\"}"
+[2025-11-11 03:05:49] CREATE: Decoded data | Data: {"year":"2025","month":"9","tree_type":"Rubber","quantity":"1135","notes":""}
+[2025-11-11 03:05:49] CREATE: New record ID | Data: "7"
+[2025-11-11 03:05:49] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:05:49] ========== TREES API CALLED ==========
+[2025-11-11 03:05:49] Request Method | Data: "GET"
+[2025-11-11 03:05:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:05:49] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:05:49] POST Parameters | Data: []
+[2025-11-11 03:05:49] Attempting to include database connection file
+[2025-11-11 03:05:49] Database connection file included successfully
+[2025-11-11 03:05:49] PDO connection exists | Data: "PDO"
+[2025-11-11 03:05:49] Action requested | Data: "list"
+[2025-11-11 03:05:49] LIST: Starting listTrees function
+[2025-11-11 03:05:49] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:05:49] LIST: Statement prepared
+[2025-11-11 03:05:49] LIST: Query executed
+[2025-11-11 03:05:49] LIST: Records fetched | Data: 2
+[2025-11-11 03:05:49] LIST: Sample record | Data: {"id":7,"year":2025,"month":9,"tree_type":"Rubber","quantity":1135,"notes":"","created_at":"2025-11-11 10:05:49","updated_at":"2025-11-11 10:05:49"}
+[2025-11-11 03:05:49] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:06:06] ========== TREES API CALLED ==========
+[2025-11-11 03:06:06] Request Method | Data: "GET"
+[2025-11-11 03:06:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:06:06] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:06:06] POST Parameters | Data: []
+[2025-11-11 03:06:06] Attempting to include database connection file
+[2025-11-11 03:06:06] Database connection file included successfully
+[2025-11-11 03:06:06] PDO connection exists | Data: "PDO"
+[2025-11-11 03:06:06] Action requested | Data: "list"
+[2025-11-11 03:06:06] LIST: Starting listTrees function
+[2025-11-11 03:06:06] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:06:06] LIST: Statement prepared
+[2025-11-11 03:06:06] LIST: Query executed
+[2025-11-11 03:06:06] LIST: Records fetched | Data: 2
+[2025-11-11 03:06:06] LIST: Sample record | Data: {"id":7,"year":2025,"month":9,"tree_type":"Rubber","quantity":1135,"notes":"","created_at":"2025-11-11 10:05:49","updated_at":"2025-11-11 10:05:49"}
+[2025-11-11 03:06:06] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:06:30] ========== TREES API CALLED ==========
+[2025-11-11 03:06:30] Request Method | Data: "POST"
+[2025-11-11 03:06:30] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=add"
+[2025-11-11 03:06:30] GET Parameters | Data: {"action":"add"}
+[2025-11-11 03:06:30] POST Parameters | Data: []
+[2025-11-11 03:06:30] Attempting to include database connection file
+[2025-11-11 03:06:31] Database connection file included successfully
+[2025-11-11 03:06:31] PDO connection exists | Data: "PDO"
+[2025-11-11 03:06:31] Action requested | Data: "add"
+[2025-11-11 03:06:31] CREATE: Starting createTree function
+[2025-11-11 03:06:31] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"9\",\"tree_type\":\"Coconut\",\"quantity\":\"143\",\"notes\":\"\"}"
+[2025-11-11 03:06:31] CREATE: Decoded data | Data: {"year":"2025","month":"9","tree_type":"Coconut","quantity":"143","notes":""}
+[2025-11-11 03:06:31] CREATE: New record ID | Data: "8"
+[2025-11-11 03:06:31] ========== TREES API COMPLETED ==========
+
+[2025-11-11 03:06:31] ========== TREES API CALLED ==========
+[2025-11-11 03:06:31] Request Method | Data: "GET"
+[2025-11-11 03:06:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 03:06:31] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:06:31] POST Parameters | Data: []
+[2025-11-11 03:06:31] Attempting to include database connection file
+[2025-11-11 03:06:31] Database connection file included successfully
+[2025-11-11 03:06:31] PDO connection exists | Data: "PDO"
+[2025-11-11 03:06:31] Action requested | Data: "list"
+[2025-11-11 03:06:31] LIST: Starting listTrees function
+[2025-11-11 03:06:31] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 03:06:31] LIST: Statement prepared
+[2025-11-11 03:06:31] LIST: Query executed
+[2025-11-11 03:06:31] LIST: Records fetched | Data: 3
+[2025-11-11 03:06:31] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2025-11-11 03:06:31] ========== TREES API COMPLETED ==========
+
+[2025-11-11 04:42:41] ========== TREES API CALLED ==========
+[2025-11-11 04:42:41] Request Method | Data: "GET"
+[2025-11-11 04:42:41] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-11 04:42:41] GET Parameters | Data: {"action":"list"}
+[2025-11-11 04:42:41] POST Parameters | Data: []
+[2025-11-11 04:42:41] Attempting to include database connection file
+[2025-11-11 04:42:41] Database connection file included successfully
+[2025-11-11 04:42:41] PDO connection exists | Data: "PDO"
+[2025-11-11 04:42:41] Action requested | Data: "list"
+[2025-11-11 04:42:41] LIST: Starting listTrees function
+[2025-11-11 04:42:41] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-11 04:42:41] LIST: Statement prepared
+[2025-11-11 04:42:41] LIST: Query executed
+[2025-11-11 04:42:41] LIST: Records fetched | Data: 3
+[2025-11-11 04:42:41] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2025-11-11 04:42:41] ========== TREES API COMPLETED ==========
+
+[2025-11-27 01:34:26] ========== TREES API CALLED ==========
+[2025-11-27 01:34:26] Request Method | Data: "GET"
+[2025-11-27 01:34:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-27 01:34:26] GET Parameters | Data: {"action":"list"}
+[2025-11-27 01:34:26] POST Parameters | Data: []
+[2025-11-27 01:34:26] Attempting to include database connection file
+[2025-11-27 01:34:26] Database connection file included successfully
+[2025-11-27 01:34:26] PDO connection exists | Data: "PDO"
+[2025-11-27 01:34:26] Action requested | Data: "list"
+[2025-11-27 01:34:26] LIST: Starting listTrees function
+[2025-11-27 01:34:26] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-27 01:34:26] LIST: Statement prepared
+[2025-11-27 01:34:26] LIST: Query executed
+[2025-11-27 01:34:26] LIST: Records fetched | Data: 3
+[2025-11-27 01:34:26] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2025-11-27 01:34:26] ========== TREES API COMPLETED ==========
+
+[2025-11-27 03:31:54] ========== TREES API CALLED ==========
+[2025-11-27 03:31:54] Request Method | Data: "GET"
+[2025-11-27 03:31:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2025-11-27 03:31:54] GET Parameters | Data: {"action":"list"}
+[2025-11-27 03:31:54] POST Parameters | Data: []
+[2025-11-27 03:31:54] Attempting to include database connection file
+[2025-11-27 03:31:54] Database connection file included successfully
+[2025-11-27 03:31:54] PDO connection exists | Data: "PDO"
+[2025-11-27 03:31:54] Action requested | Data: "list"
+[2025-11-27 03:31:54] LIST: Starting listTrees function
+[2025-11-27 03:31:54] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2025-11-27 03:31:54] LIST: Statement prepared
+[2025-11-27 03:31:54] LIST: Query executed
+[2025-11-27 03:31:54] LIST: Records fetched | Data: 3
+[2025-11-27 03:31:54] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2025-11-27 03:31:54] ========== TREES API COMPLETED ==========
+
+[2026-01-22 01:27:23] ========== TREES API CALLED ==========
+[2026-01-22 01:27:23] Request Method | Data: "GET"
+[2026-01-22 01:27:23] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2026-01-22 01:27:23] GET Parameters | Data: {"action":"list"}
+[2026-01-22 01:27:23] POST Parameters | Data: []
+[2026-01-22 01:27:23] Attempting to include database connection file
+[2026-01-22 01:27:23] Database connection file included successfully
+[2026-01-22 01:27:23] PDO connection exists | Data: "PDO"
+[2026-01-22 01:27:23] Action requested | Data: "list"
+[2026-01-22 01:27:23] LIST: Starting listTrees function
+[2026-01-22 01:27:23] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2026-01-22 01:27:23] LIST: Statement prepared
+[2026-01-22 01:27:23] LIST: Query executed
+[2026-01-22 01:27:23] LIST: Records fetched | Data: 3
+[2026-01-22 01:27:23] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2026-01-22 01:27:23] ========== TREES API COMPLETED ==========
+
+[2026-09-28 02:35:43] ========== TREES API CALLED ==========
+[2026-09-28 02:35:43] Request Method | Data: "GET"
+[2026-09-28 02:35:43] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2026-09-28 02:35:43] GET Parameters | Data: {"action":"list"}
+[2026-09-28 02:35:43] POST Parameters | Data: []
+[2026-09-28 02:35:43] Attempting to include database connection file
+[2026-09-28 02:35:43] Database connection file included successfully
+[2026-09-28 02:35:43] PDO connection exists | Data: "PDO"
+[2026-09-28 02:35:43] Action requested | Data: "list"
+[2026-09-28 02:35:43] LIST: Starting listTrees function
+[2026-09-28 02:35:43] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2026-09-28 02:35:43] LIST: Statement prepared
+[2026-09-28 02:35:43] LIST: Query executed
+[2026-09-28 02:35:43] LIST: Records fetched | Data: 3
+[2026-09-28 02:35:43] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2026-09-28 02:35:43] ========== TREES API COMPLETED ==========
+
+[2026-09-28 07:48:58] ========== TREES API CALLED ==========
+[2026-09-28 07:48:58] Request Method | Data: "GET"
+[2026-09-28 07:48:58] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2026-09-28 07:48:58] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:48:58] POST Parameters | Data: []
+[2026-09-28 07:48:58] Attempting to include database connection file
+[2026-09-28 07:48:58] Database connection file included successfully
+[2026-09-28 07:48:58] PDO connection exists | Data: "PDO"
+[2026-09-28 07:48:58] Action requested | Data: "list"
+[2026-09-28 07:48:58] LIST: Starting listTrees function
+[2026-09-28 07:48:58] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2026-09-28 07:48:58] LIST: Statement prepared
+[2026-09-28 07:48:58] LIST: Query executed
+[2026-09-28 07:48:58] LIST: Records fetched | Data: 3
+[2026-09-28 07:48:58] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2026-09-28 07:48:58] ========== TREES API COMPLETED ==========
+
+[2026-09-28 07:52:49] ========== TREES API CALLED ==========
+[2026-09-28 07:52:49] Request Method | Data: "GET"
+[2026-09-28 07:52:49] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2026-09-28 07:52:49] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:52:49] POST Parameters | Data: []
+[2026-09-28 07:52:49] Attempting to include database connection file
+[2026-09-28 07:52:49] Database connection file included successfully
+[2026-09-28 07:52:49] PDO connection exists | Data: "PDO"
+[2026-09-28 07:52:49] Action requested | Data: "list"
+[2026-09-28 07:52:49] LIST: Starting listTrees function
+[2026-09-28 07:52:49] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2026-09-28 07:52:49] LIST: Statement prepared
+[2026-09-28 07:52:49] LIST: Query executed
+[2026-09-28 07:52:49] LIST: Records fetched | Data: 3
+[2026-09-28 07:52:49] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2026-09-28 07:52:49] ========== TREES API COMPLETED ==========
+
+[2026-09-28 07:52:51] ========== TREES API CALLED ==========
+[2026-09-28 07:52:51] Request Method | Data: "GET"
+[2026-09-28 07:52:51] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/trees_api.php?action=list"
+[2026-09-28 07:52:51] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:52:51] POST Parameters | Data: []
+[2026-09-28 07:52:51] Attempting to include database connection file
+[2026-09-28 07:52:51] Database connection file included successfully
+[2026-09-28 07:52:51] PDO connection exists | Data: "PDO"
+[2026-09-28 07:52:51] Action requested | Data: "list"
+[2026-09-28 07:52:51] LIST: Starting listTrees function
+[2026-09-28 07:52:51] LIST: SQL Query | Data: "SELECT * FROM farm_trees ORDER BY year DESC, month DESC, tree_type ASC"
+[2026-09-28 07:52:51] LIST: Statement prepared
+[2026-09-28 07:52:51] LIST: Query executed
+[2026-09-28 07:52:51] LIST: Records fetched | Data: 3
+[2026-09-28 07:52:51] LIST: Sample record | Data: {"id":8,"year":2025,"month":9,"tree_type":"Coconut","quantity":143,"notes":"","created_at":"2025-11-11 10:06:31","updated_at":"2025-11-11 10:06:31"}
+[2026-09-28 07:52:51] ========== TREES API COMPLETED ==========
+

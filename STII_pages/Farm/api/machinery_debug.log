@@ -1,0 +1,581 @@
+[2025-10-30 00:44:58] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:44:58] Request Method | Data: "GET"
+[2025-10-30 00:44:58] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:44:58] Database connection file included successfully
+[2025-10-30 00:44:58] Action requested | Data: "list"
+[2025-10-30 00:44:58] LIST: Starting listMachinery function
+[2025-10-30 00:44:58] LIST: SQL Query | Data: "SELECT * FROM farm_machineries ORDER BY id DESC"
+[2025-10-30 00:44:58] LIST ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:44:58] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:45:00] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:45:00] Request Method | Data: "GET"
+[2025-10-30 00:45:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:45:00] Database connection file included successfully
+[2025-10-30 00:45:00] Action requested | Data: "list"
+[2025-10-30 00:45:00] LIST: Starting listMachinery function
+[2025-10-30 00:45:00] LIST: SQL Query | Data: "SELECT * FROM farm_machineries ORDER BY id DESC"
+[2025-10-30 00:45:00] LIST ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:45:00] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:45:21] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:45:21] Request Method | Data: "GET"
+[2025-10-30 00:45:21] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:45:21] Database connection file included successfully
+[2025-10-30 00:45:21] Action requested | Data: "list"
+[2025-10-30 00:45:21] LIST: Starting listMachinery function
+[2025-10-30 00:45:21] LIST: SQL Query | Data: "SELECT * FROM farm_machineries ORDER BY id DESC"
+[2025-10-30 00:45:21] LIST ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:45:21] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:45:22] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:45:22] Request Method | Data: "GET"
+[2025-10-30 00:45:22] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:45:22] Database connection file included successfully
+[2025-10-30 00:45:22] Action requested | Data: "list"
+[2025-10-30 00:45:22] LIST: Starting listMachinery function
+[2025-10-30 00:45:22] LIST: SQL Query | Data: "SELECT * FROM farm_machineries ORDER BY id DESC"
+[2025-10-30 00:45:22] LIST ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:45:22] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:46:03] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:46:03] Request Method | Data: "POST"
+[2025-10-30 00:46:03] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:46:03] Database connection file included successfully
+[2025-10-30 00:46:03] Action requested | Data: "add"
+[2025-10-30 00:46:03] ADD: Starting addMachinery function
+[2025-10-30 00:46:03] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"\"}"
+[2025-10-30 00:46:03] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":""}
+[2025-10-30 00:46:03] ADD ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:46:03] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:46:22] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:46:22] Request Method | Data: "POST"
+[2025-10-30 00:46:22] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:46:22] Database connection file included successfully
+[2025-10-30 00:46:22] Action requested | Data: "add"
+[2025-10-30 00:46:22] ADD: Starting addMachinery function
+[2025-10-30 00:46:22] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"\"}"
+[2025-10-30 00:46:22] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":""}
+[2025-10-30 00:46:22] ADD ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:46:22] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:46:25] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:46:25] Request Method | Data: "POST"
+[2025-10-30 00:46:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:46:25] Database connection file included successfully
+[2025-10-30 00:46:25] Action requested | Data: "add"
+[2025-10-30 00:46:25] ADD: Starting addMachinery function
+[2025-10-30 00:46:25] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"\"}"
+[2025-10-30 00:46:25] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":""}
+[2025-10-30 00:46:25] ADD ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:46:25] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:46:28] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:46:28] Request Method | Data: "POST"
+[2025-10-30 00:46:28] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:46:28] Database connection file included successfully
+[2025-10-30 00:46:28] Action requested | Data: "add"
+[2025-10-30 00:46:28] ADD: Starting addMachinery function
+[2025-10-30 00:46:28] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"\"}"
+[2025-10-30 00:46:28] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":""}
+[2025-10-30 00:46:28] ADD ERROR | Data: "SQLSTATE[42S02]: Base table or view not found: 1146 Table 'doc_vic.farm_machineries' doesn't exist"
+[2025-10-30 00:46:28] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:48:16] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:48:16] Request Method | Data: "GET"
+[2025-10-30 00:48:16] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:48:16] Database connection file included successfully
+[2025-10-30 00:48:16] Action requested | Data: "list"
+[2025-10-30 00:48:16] LIST: Starting listMachinery function
+[2025-10-30 00:48:16] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 00:48:16] LIST: Records fetched | Data: 5
+[2025-10-30 00:48:16] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:49:39] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:49:39] Request Method | Data: "GET"
+[2025-10-30 00:49:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:49:39] Database connection file included successfully
+[2025-10-30 00:49:39] Action requested | Data: "list"
+[2025-10-30 00:49:39] LIST: Starting listMachinery function
+[2025-10-30 00:49:39] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 00:49:39] LIST: Records fetched | Data: 5
+[2025-10-30 00:49:39] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:49:51] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:49:51] Request Method | Data: "POST"
+[2025-10-30 00:49:51] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:49:51] Database connection file included successfully
+[2025-10-30 00:49:51] Action requested | Data: "add"
+[2025-10-30 00:49:51] ADD: Starting addMachinery function
+[2025-10-30 00:49:51] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"sss\"}"
+[2025-10-30 00:49:51] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"sss"}
+[2025-10-30 00:49:51] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:49:51] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:32] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:32] Request Method | Data: "POST"
+[2025-10-30 00:50:32] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:50:32] Database connection file included successfully
+[2025-10-30 00:50:32] Action requested | Data: "add"
+[2025-10-30 00:50:32] ADD: Starting addMachinery function
+[2025-10-30 00:50:32] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"sss\"}"
+[2025-10-30 00:50:32] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"sss"}
+[2025-10-30 00:50:32] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:50:32] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:34] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:34] Request Method | Data: "GET"
+[2025-10-30 00:50:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 00:50:34] Database connection file included successfully
+[2025-10-30 00:50:34] Action requested | Data: "list"
+[2025-10-30 00:50:34] LIST: Starting listMachinery function
+[2025-10-30 00:50:34] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 00:50:34] LIST: Records fetched | Data: 5
+[2025-10-30 00:50:34] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:41] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:41] Request Method | Data: "POST"
+[2025-10-30 00:50:41] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:50:41] Database connection file included successfully
+[2025-10-30 00:50:41] Action requested | Data: "add"
+[2025-10-30 00:50:41] ADD: Starting addMachinery function
+[2025-10-30 00:50:41] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"dsacas\"}"
+[2025-10-30 00:50:42] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"dsacas"}
+[2025-10-30 00:50:42] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:50:42] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:46] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:46] Request Method | Data: "POST"
+[2025-10-30 00:50:46] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:50:46] Database connection file included successfully
+[2025-10-30 00:50:46] Action requested | Data: "add"
+[2025-10-30 00:50:46] ADD: Starting addMachinery function
+[2025-10-30 00:50:46] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"dsacas\"}"
+[2025-10-30 00:50:46] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"dsacas"}
+[2025-10-30 00:50:46] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:50:46] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:49] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:49] Request Method | Data: "POST"
+[2025-10-30 00:50:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:50:49] Database connection file included successfully
+[2025-10-30 00:50:49] Action requested | Data: "add"
+[2025-10-30 00:50:49] ADD: Starting addMachinery function
+[2025-10-30 00:50:49] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"dsacas\"}"
+[2025-10-30 00:50:49] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"dsacas"}
+[2025-10-30 00:50:49] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:50:49] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 00:50:59] ========== MACHINERY API CALLED ==========
+[2025-10-30 00:50:59] Request Method | Data: "POST"
+[2025-10-30 00:50:59] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 00:50:59] Database connection file included successfully
+[2025-10-30 00:50:59] Action requested | Data: "add"
+[2025-10-30 00:50:59] ADD: Starting addMachinery function
+[2025-10-30 00:50:59] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"dsacas\"}"
+[2025-10-30 00:50:59] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"dsacas"}
+[2025-10-30 00:50:59] ADD ERROR | Data: "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_maintenance_date' in 'field list'"
+[2025-10-30 00:50:59] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:01:30] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:01:30] Request Method | Data: "GET"
+[2025-10-30 01:01:30] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 01:01:30] Database connection file included successfully
+[2025-10-30 01:01:30] Action requested | Data: "list"
+[2025-10-30 01:01:30] LIST: Starting listMachinery function
+[2025-10-30 01:01:30] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 01:01:30] LIST: Records fetched | Data: 5
+[2025-10-30 01:01:30] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:01:42] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:01:42] Request Method | Data: "POST"
+[2025-10-30 01:01:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=add"
+[2025-10-30 01:01:42] Database connection file included successfully
+[2025-10-30 01:01:42] Action requested | Data: "add"
+[2025-10-30 01:01:42] ADD: Starting addMachinery function
+[2025-10-30 01:01:42] ADD: Raw input | Data: "{\"machinery_name\":\"motor\",\"machinery_type\":\"honda\",\"quantity\":\"1\",\"status\":\"Operational\",\"notes\":\"sacacsac\"}"
+[2025-10-30 01:01:42] ADD: Decoded data | Data: {"machinery_name":"motor","machinery_type":"honda","quantity":"1","status":"Operational","notes":"sacacsac"}
+[2025-10-30 01:01:42] ADD: New record ID | Data: "6"
+[2025-10-30 01:01:42] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:01:42] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:01:42] Request Method | Data: "GET"
+[2025-10-30 01:01:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 01:01:42] Database connection file included successfully
+[2025-10-30 01:01:42] Action requested | Data: "list"
+[2025-10-30 01:01:42] LIST: Starting listMachinery function
+[2025-10-30 01:01:42] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 01:01:42] LIST: Records fetched | Data: 6
+[2025-10-30 01:01:42] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:02:02] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:02:02] Request Method | Data: "POST"
+[2025-10-30 01:02:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=update"
+[2025-10-30 01:02:02] Database connection file included successfully
+[2025-10-30 01:02:02] Action requested | Data: "update"
+[2025-10-30 01:02:02] UPDATE: Starting updateMachinery function
+[2025-10-30 01:02:02] UPDATE: Data received | Data: {"id":"6","machinery_name":"motor222","machinery_type":"Sprayer","quantity":"1","status":"Under Repair","notes":"sacacsaccascaccsc"}
+[2025-10-30 01:02:02] UPDATE: Rows affected | Data: 1
+[2025-10-30 01:02:02] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:02:02] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:02:02] Request Method | Data: "GET"
+[2025-10-30 01:02:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 01:02:02] Database connection file included successfully
+[2025-10-30 01:02:02] Action requested | Data: "list"
+[2025-10-30 01:02:02] LIST: Starting listMachinery function
+[2025-10-30 01:02:02] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 01:02:02] LIST: Records fetched | Data: 6
+[2025-10-30 01:02:02] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:04:19] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:04:19] Request Method | Data: "GET"
+[2025-10-30 01:04:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 01:04:19] Database connection file included successfully
+[2025-10-30 01:04:19] Action requested | Data: "list"
+[2025-10-30 01:04:19] LIST: Starting listMachinery function
+[2025-10-30 01:04:19] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 01:04:19] LIST: Records fetched | Data: 6
+[2025-10-30 01:04:19] ========== MACHINERY API COMPLETED ==========
+
+[2025-10-30 01:04:21] ========== MACHINERY API CALLED ==========
+[2025-10-30 01:04:21] Request Method | Data: "GET"
+[2025-10-30 01:04:21] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-10-30 01:04:21] Database connection file included successfully
+[2025-10-30 01:04:21] Action requested | Data: "list"
+[2025-10-30 01:04:21] LIST: Starting listMachinery function
+[2025-10-30 01:04:21] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-10-30 01:04:21] LIST: Records fetched | Data: 6
+[2025-10-30 01:04:21] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-03 01:27:31] ========== MACHINERY API CALLED ==========
+[2025-11-03 01:27:31] Request Method | Data: "GET"
+[2025-11-03 01:27:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-03 01:27:31] Database connection file included successfully
+[2025-11-03 01:27:31] Action requested | Data: "list"
+[2025-11-03 01:27:31] LIST: Starting listMachinery function
+[2025-11-03 01:27:31] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-03 01:27:31] LIST: Records fetched | Data: 6
+[2025-11-03 01:27:31] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-03 01:28:14] ========== MACHINERY API CALLED ==========
+[2025-11-03 01:28:14] Request Method | Data: "GET"
+[2025-11-03 01:28:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-03 01:28:14] Database connection file included successfully
+[2025-11-03 01:28:14] Action requested | Data: "list"
+[2025-11-03 01:28:14] LIST: Starting listMachinery function
+[2025-11-03 01:28:14] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-03 01:28:14] LIST: Records fetched | Data: 6
+[2025-11-03 01:28:14] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-03 01:28:19] ========== MACHINERY API CALLED ==========
+[2025-11-03 01:28:19] Request Method | Data: "GET"
+[2025-11-03 01:28:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-03 01:28:19] Database connection file included successfully
+[2025-11-03 01:28:19] Action requested | Data: "list"
+[2025-11-03 01:28:19] LIST: Starting listMachinery function
+[2025-11-03 01:28:19] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-03 01:28:19] LIST: Records fetched | Data: 6
+[2025-11-03 01:28:19] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-03 01:29:01] ========== MACHINERY API CALLED ==========
+[2025-11-03 01:29:01] Request Method | Data: "GET"
+[2025-11-03 01:29:01] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-03 01:29:01] Database connection file included successfully
+[2025-11-03 01:29:01] Action requested | Data: "list"
+[2025-11-03 01:29:01] LIST: Starting listMachinery function
+[2025-11-03 01:29:01] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-03 01:29:01] LIST: Records fetched | Data: 6
+[2025-11-03 01:29:01] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-03 01:31:38] ========== MACHINERY API CALLED ==========
+[2025-11-03 01:31:38] Request Method | Data: "GET"
+[2025-11-03 01:31:38] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-03 01:31:38] Database connection file included successfully
+[2025-11-03 01:31:38] Action requested | Data: "list"
+[2025-11-03 01:31:38] LIST: Starting listMachinery function
+[2025-11-03 01:31:38] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-03 01:31:38] LIST: Records fetched | Data: 6
+[2025-11-03 01:31:38] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:03:37] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:03:37] Request Method | Data: "GET"
+[2025-11-06 01:03:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:03:37] Database connection file included successfully
+[2025-11-06 01:03:37] Action requested | Data: "list"
+[2025-11-06 01:03:37] LIST: Starting listMachinery function
+[2025-11-06 01:03:37] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:03:37] LIST: Records fetched | Data: 6
+[2025-11-06 01:03:37] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:04:42] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:04:42] Request Method | Data: "GET"
+[2025-11-06 01:04:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:04:42] Database connection file included successfully
+[2025-11-06 01:04:42] Action requested | Data: "list"
+[2025-11-06 01:04:42] LIST: Starting listMachinery function
+[2025-11-06 01:04:42] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:04:42] LIST: Records fetched | Data: 6
+[2025-11-06 01:04:42] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:08:58] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:08:58] Request Method | Data: "GET"
+[2025-11-06 01:08:58] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:08:58] Database connection file included successfully
+[2025-11-06 01:08:58] Action requested | Data: "list"
+[2025-11-06 01:08:58] LIST: Starting listMachinery function
+[2025-11-06 01:08:58] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:08:58] LIST: Records fetched | Data: 6
+[2025-11-06 01:08:58] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:13:27] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:13:27] Request Method | Data: "GET"
+[2025-11-06 01:13:27] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:13:27] Database connection file included successfully
+[2025-11-06 01:13:27] Action requested | Data: "list"
+[2025-11-06 01:13:27] LIST: Starting listMachinery function
+[2025-11-06 01:13:27] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:13:27] LIST: Records fetched | Data: 6
+[2025-11-06 01:13:27] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:13:50] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:13:50] Request Method | Data: "GET"
+[2025-11-06 01:13:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:13:50] Database connection file included successfully
+[2025-11-06 01:13:50] Action requested | Data: "list"
+[2025-11-06 01:13:50] LIST: Starting listMachinery function
+[2025-11-06 01:13:50] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:13:50] LIST: Records fetched | Data: 6
+[2025-11-06 01:13:50] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:14:03] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:14:03] Request Method | Data: "GET"
+[2025-11-06 01:14:03] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:14:03] Database connection file included successfully
+[2025-11-06 01:14:03] Action requested | Data: "list"
+[2025-11-06 01:14:03] LIST: Starting listMachinery function
+[2025-11-06 01:14:03] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:14:03] LIST: Records fetched | Data: 6
+[2025-11-06 01:14:03] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:27:49] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:27:49] Request Method | Data: "GET"
+[2025-11-06 01:27:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:27:49] Database connection file included successfully
+[2025-11-06 01:27:49] Action requested | Data: "list"
+[2025-11-06 01:27:49] LIST: Starting listMachinery function
+[2025-11-06 01:27:49] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:27:49] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:49] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:27:52] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:27:52] Request Method | Data: "GET"
+[2025-11-06 01:27:52] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:27:52] Database connection file included successfully
+[2025-11-06 01:27:52] Action requested | Data: "list"
+[2025-11-06 01:27:52] LIST: Starting listMachinery function
+[2025-11-06 01:27:52] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:27:52] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:52] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:27:53] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:27:53] Request Method | Data: "GET"
+[2025-11-06 01:27:53] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:27:53] Database connection file included successfully
+[2025-11-06 01:27:53] Action requested | Data: "list"
+[2025-11-06 01:27:53] LIST: Starting listMachinery function
+[2025-11-06 01:27:53] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:27:53] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:53] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-06 01:27:54] ========== MACHINERY API CALLED ==========
+[2025-11-06 01:27:54] Request Method | Data: "GET"
+[2025-11-06 01:27:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-06 01:27:54] Database connection file included successfully
+[2025-11-06 01:27:54] Action requested | Data: "list"
+[2025-11-06 01:27:54] LIST: Starting listMachinery function
+[2025-11-06 01:27:55] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-06 01:27:55] LIST: Records fetched | Data: 6
+[2025-11-06 01:27:55] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 01:12:13] ========== MACHINERY API CALLED ==========
+[2025-11-10 01:12:13] Request Method | Data: "GET"
+[2025-11-10 01:12:13] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 01:12:13] Database connection file included successfully
+[2025-11-10 01:12:13] Action requested | Data: "list"
+[2025-11-10 01:12:13] LIST: Starting listMachinery function
+[2025-11-10 01:12:13] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 01:12:13] LIST: Records fetched | Data: 6
+[2025-11-10 01:12:13] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 03:47:50] ========== MACHINERY API CALLED ==========
+[2025-11-10 03:47:50] Request Method | Data: "GET"
+[2025-11-10 03:47:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 03:47:50] Database connection file included successfully
+[2025-11-10 03:47:50] Action requested | Data: "list"
+[2025-11-10 03:47:50] LIST: Starting listMachinery function
+[2025-11-10 03:47:50] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 03:47:50] LIST: Records fetched | Data: 6
+[2025-11-10 03:47:50] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 04:08:17] ========== MACHINERY API CALLED ==========
+[2025-11-10 04:08:17] Request Method | Data: "GET"
+[2025-11-10 04:08:17] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 04:08:17] Database connection file included successfully
+[2025-11-10 04:08:17] Action requested | Data: "list"
+[2025-11-10 04:08:17] LIST: Starting listMachinery function
+[2025-11-10 04:08:17] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 04:08:17] LIST: Records fetched | Data: 6
+[2025-11-10 04:08:17] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 04:26:23] ========== MACHINERY API CALLED ==========
+[2025-11-10 04:26:23] Request Method | Data: "GET"
+[2025-11-10 04:26:23] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 04:26:23] Database connection file included successfully
+[2025-11-10 04:26:23] Action requested | Data: "list"
+[2025-11-10 04:26:23] LIST: Starting listMachinery function
+[2025-11-10 04:26:23] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 04:26:23] LIST: Records fetched | Data: 6
+[2025-11-10 04:26:23] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 04:29:24] ========== MACHINERY API CALLED ==========
+[2025-11-10 04:29:24] Request Method | Data: "GET"
+[2025-11-10 04:29:24] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 04:29:24] Database connection file included successfully
+[2025-11-10 04:29:24] Action requested | Data: "list"
+[2025-11-10 04:29:24] LIST: Starting listMachinery function
+[2025-11-10 04:29:24] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 04:29:24] LIST: Records fetched | Data: 6
+[2025-11-10 04:29:24] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-10 06:58:08] ========== MACHINERY API CALLED ==========
+[2025-11-10 06:58:08] Request Method | Data: "GET"
+[2025-11-10 06:58:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-10 06:58:08] Database connection file included successfully
+[2025-11-10 06:58:08] Action requested | Data: "list"
+[2025-11-10 06:58:08] LIST: Starting listMachinery function
+[2025-11-10 06:58:08] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-10 06:58:08] LIST: Records fetched | Data: 6
+[2025-11-10 06:58:08] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-11 02:51:16] ========== MACHINERY API CALLED ==========
+[2025-11-11 02:51:16] Request Method | Data: "GET"
+[2025-11-11 02:51:16] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-11 02:51:16] Database connection file included successfully
+[2025-11-11 02:51:16] Action requested | Data: "list"
+[2025-11-11 02:51:16] LIST: Starting listMachinery function
+[2025-11-11 02:51:16] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-11 02:51:16] LIST: Records fetched | Data: 6
+[2025-11-11 02:51:16] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-11 03:08:12] ========== MACHINERY API CALLED ==========
+[2025-11-11 03:08:12] Request Method | Data: "GET"
+[2025-11-11 03:08:12] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-11 03:08:12] Database connection file included successfully
+[2025-11-11 03:08:12] Action requested | Data: "list"
+[2025-11-11 03:08:12] LIST: Starting listMachinery function
+[2025-11-11 03:08:12] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-11 03:08:12] LIST: Records fetched | Data: 6
+[2025-11-11 03:08:12] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-11 04:42:44] ========== MACHINERY API CALLED ==========
+[2025-11-11 04:42:44] Request Method | Data: "GET"
+[2025-11-11 04:42:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-11 04:42:44] Database connection file included successfully
+[2025-11-11 04:42:44] Action requested | Data: "list"
+[2025-11-11 04:42:44] LIST: Starting listMachinery function
+[2025-11-11 04:42:44] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-11 04:42:44] LIST: Records fetched | Data: 6
+[2025-11-11 04:42:44] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-27 01:34:25] ========== MACHINERY API CALLED ==========
+[2025-11-27 01:34:25] Request Method | Data: "GET"
+[2025-11-27 01:34:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-27 01:34:25] Database connection file included successfully
+[2025-11-27 01:34:25] Action requested | Data: "list"
+[2025-11-27 01:34:25] LIST: Starting listMachinery function
+[2025-11-27 01:34:25] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-27 01:34:25] LIST: Records fetched | Data: 6
+[2025-11-27 01:34:25] ========== MACHINERY API COMPLETED ==========
+
+[2025-11-27 03:31:44] ========== MACHINERY API CALLED ==========
+[2025-11-27 03:31:44] Request Method | Data: "GET"
+[2025-11-27 03:31:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2025-11-27 03:31:44] Database connection file included successfully
+[2025-11-27 03:31:44] Action requested | Data: "list"
+[2025-11-27 03:31:44] LIST: Starting listMachinery function
+[2025-11-27 03:31:44] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2025-11-27 03:31:44] LIST: Records fetched | Data: 6
+[2025-11-27 03:31:44] ========== MACHINERY API COMPLETED ==========
+
+[2026-01-05 07:04:09] ========== MACHINERY API CALLED ==========
+[2026-01-05 07:04:09] Request Method | Data: "GET"
+[2026-01-05 07:04:09] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-01-05 07:04:09] Database connection file included successfully
+[2026-01-05 07:04:09] Action requested | Data: "list"
+[2026-01-05 07:04:09] LIST: Starting listMachinery function
+[2026-01-05 07:04:09] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-01-05 07:04:09] LIST: Records fetched | Data: 6
+[2026-01-05 07:04:09] ========== MACHINERY API COMPLETED ==========
+
+[2026-01-22 01:27:28] ========== MACHINERY API CALLED ==========
+[2026-01-22 01:27:28] Request Method | Data: "GET"
+[2026-01-22 01:27:28] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-01-22 01:27:28] Database connection file included successfully
+[2026-01-22 01:27:28] Action requested | Data: "list"
+[2026-01-22 01:27:28] LIST: Starting listMachinery function
+[2026-01-22 01:27:28] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-01-22 01:27:28] LIST: Records fetched | Data: 6
+[2026-01-22 01:27:28] ========== MACHINERY API COMPLETED ==========
+
+[2026-02-02 06:21:30] ========== MACHINERY API CALLED ==========
+[2026-02-02 06:21:30] Request Method | Data: "GET"
+[2026-02-02 06:21:30] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-02-02 06:21:30] Database connection file included successfully
+[2026-02-02 06:21:30] Action requested | Data: "list"
+[2026-02-02 06:21:30] LIST: Starting listMachinery function
+[2026-02-02 06:21:30] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-02-02 06:21:30] LIST: Records fetched | Data: 6
+[2026-02-02 06:21:30] ========== MACHINERY API COMPLETED ==========
+
+[2026-09-28 02:35:40] ========== MACHINERY API CALLED ==========
+[2026-09-28 02:35:40] Request Method | Data: "GET"
+[2026-09-28 02:35:40] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-09-28 02:35:40] Database connection file included successfully
+[2026-09-28 02:35:40] Action requested | Data: "list"
+[2026-09-28 02:35:40] LIST: Starting listMachinery function
+[2026-09-28 02:35:40] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-09-28 02:35:40] LIST: Records fetched | Data: 6
+[2026-09-28 02:35:40] ========== MACHINERY API COMPLETED ==========
+
+[2026-09-28 07:48:56] ========== MACHINERY API CALLED ==========
+[2026-09-28 07:48:56] Request Method | Data: "GET"
+[2026-09-28 07:48:56] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-09-28 07:48:56] Database connection file included successfully
+[2026-09-28 07:48:56] Action requested | Data: "list"
+[2026-09-28 07:48:56] LIST: Starting listMachinery function
+[2026-09-28 07:48:56] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-09-28 07:48:56] LIST: Records fetched | Data: 6
+[2026-09-28 07:48:56] ========== MACHINERY API COMPLETED ==========
+
+[2026-09-28 07:52:48] ========== MACHINERY API CALLED ==========
+[2026-09-28 07:52:48] Request Method | Data: "GET"
+[2026-09-28 07:52:48] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-09-28 07:52:48] Database connection file included successfully
+[2026-09-28 07:52:48] Action requested | Data: "list"
+[2026-09-28 07:52:48] LIST: Starting listMachinery function
+[2026-09-28 07:52:48] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-09-28 07:52:48] LIST: Records fetched | Data: 6
+[2026-09-28 07:52:48] ========== MACHINERY API COMPLETED ==========
+
+[2026-09-28 07:52:50] ========== MACHINERY API CALLED ==========
+[2026-09-28 07:52:50] Request Method | Data: "GET"
+[2026-09-28 07:52:50] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/machinery_api.php?action=list"
+[2026-09-28 07:52:50] Database connection file included successfully
+[2026-09-28 07:52:50] Action requested | Data: "list"
+[2026-09-28 07:52:50] LIST: Starting listMachinery function
+[2026-09-28 07:52:50] LIST: SQL Query | Data: "SELECT * FROM farm_machinery ORDER BY id DESC"
+[2026-09-28 07:52:50] LIST: Records fetched | Data: 6
+[2026-09-28 07:52:50] ========== MACHINERY API COMPLETED ==========
+

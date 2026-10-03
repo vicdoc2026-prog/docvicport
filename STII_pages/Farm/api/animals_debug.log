@@ -1,0 +1,2434 @@
+[2025-10-29 06:22:00] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:22:00] Request Method | Data: "GET"
+[2025-10-29 06:22:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:22:00] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:22:00] Attempting to include database connection file
+[2025-10-29 06:22:00] Database connection file included successfully
+[2025-10-29 06:22:00] PDO connection exists
+[2025-10-29 06:22:00] Action requested | Data: "list"
+[2025-10-29 06:22:00] LIST: Starting listAnimals function
+[2025-10-29 06:22:00] LIST: Records fetched | Data: 0
+[2025-10-29 06:22:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:22:39] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:22:39] Request Method | Data: "GET"
+[2025-10-29 06:22:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:22:39] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:22:39] Attempting to include database connection file
+[2025-10-29 06:22:39] Database connection file included successfully
+[2025-10-29 06:22:39] PDO connection exists
+[2025-10-29 06:22:39] Action requested | Data: "list"
+[2025-10-29 06:22:39] LIST: Starting listAnimals function
+[2025-10-29 06:22:39] LIST: Records fetched | Data: 0
+[2025-10-29 06:22:39] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:23:21] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:23:21] Request Method | Data: "GET"
+[2025-10-29 06:23:21] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:23:21] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:23:21] Attempting to include database connection file
+[2025-10-29 06:23:21] Database connection file included successfully
+[2025-10-29 06:23:21] PDO connection exists
+[2025-10-29 06:23:21] Action requested | Data: "list"
+[2025-10-29 06:23:21] LIST: Starting listAnimals function
+[2025-10-29 06:23:21] LIST: Records fetched | Data: 0
+[2025-10-29 06:23:21] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:24:14] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:24:14] Request Method | Data: "GET"
+[2025-10-29 06:24:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:24:14] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:24:14] Attempting to include database connection file
+[2025-10-29 06:24:14] Database connection file included successfully
+[2025-10-29 06:24:14] PDO connection exists
+[2025-10-29 06:24:14] Action requested | Data: "list"
+[2025-10-29 06:24:14] LIST: Starting listAnimals function
+[2025-10-29 06:24:14] LIST: Records fetched | Data: 0
+[2025-10-29 06:24:14] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:26:15] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:26:15] Request Method | Data: "GET"
+[2025-10-29 06:26:15] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:26:15] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:26:15] Attempting to include database connection file
+[2025-10-29 06:26:15] Database connection file included successfully
+[2025-10-29 06:26:15] PDO connection exists
+[2025-10-29 06:26:15] Action requested | Data: "list"
+[2025-10-29 06:26:15] LIST: Starting listAnimals function
+[2025-10-29 06:26:15] LIST: Records fetched | Data: 0
+[2025-10-29 06:26:15] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:27:19] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:27:19] Request Method | Data: "GET"
+[2025-10-29 06:27:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:27:19] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:27:19] Attempting to include database connection file
+[2025-10-29 06:27:19] Database connection file included successfully
+[2025-10-29 06:27:19] PDO connection exists
+[2025-10-29 06:27:19] Action requested | Data: "list"
+[2025-10-29 06:27:19] LIST: Starting listAnimals function
+[2025-10-29 06:27:19] LIST: Records fetched | Data: 0
+[2025-10-29 06:27:19] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:30:59] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:30:59] Request Method | Data: "GET"
+[2025-10-29 06:30:59] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:30:59] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:30:59] Attempting to include database connection file
+[2025-10-29 06:30:59] Database connection file included successfully
+[2025-10-29 06:30:59] PDO connection exists
+[2025-10-29 06:30:59] Action requested | Data: "list"
+[2025-10-29 06:30:59] LIST: Starting listAnimals function
+[2025-10-29 06:30:59] LIST: Records fetched | Data: 0
+[2025-10-29 06:30:59] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:33:25] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:33:25] Request Method | Data: "GET"
+[2025-10-29 06:33:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:33:25] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:33:25] Attempting to include database connection file
+[2025-10-29 06:33:25] Database connection file included successfully
+[2025-10-29 06:33:25] PDO connection exists
+[2025-10-29 06:33:25] Action requested | Data: "list"
+[2025-10-29 06:33:25] LIST: Starting listAnimals function
+[2025-10-29 06:33:25] LIST: Records fetched | Data: 0
+[2025-10-29 06:33:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:41:55] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:41:55] Request Method | Data: "GET"
+[2025-10-29 06:41:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:41:55] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:41:55] Attempting to include database connection file
+[2025-10-29 06:41:55] Database connection file included successfully
+[2025-10-29 06:41:55] PDO connection exists
+[2025-10-29 06:41:55] Action requested | Data: "list"
+[2025-10-29 06:41:55] LIST: Starting listAnimals function
+[2025-10-29 06:41:55] LIST: Records fetched | Data: 0
+[2025-10-29 06:41:55] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:43:59] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:43:59] Request Method | Data: "GET"
+[2025-10-29 06:43:59] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:43:59] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:43:59] Attempting to include database connection file
+[2025-10-29 06:43:59] Database connection file included successfully
+[2025-10-29 06:43:59] PDO connection exists
+[2025-10-29 06:43:59] Action requested | Data: "list"
+[2025-10-29 06:43:59] LIST: Starting listAnimals function
+[2025-10-29 06:43:59] LIST: Records fetched | Data: 0
+[2025-10-29 06:43:59] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:45:15] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:45:15] Request Method | Data: "GET"
+[2025-10-29 06:45:15] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:45:15] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:45:15] Attempting to include database connection file
+[2025-10-29 06:45:15] Database connection file included successfully
+[2025-10-29 06:45:15] PDO connection exists
+[2025-10-29 06:45:15] Action requested | Data: "list"
+[2025-10-29 06:45:15] LIST: Starting listAnimals function
+[2025-10-29 06:45:15] LIST: Records fetched | Data: 0
+[2025-10-29 06:45:15] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:46:48] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:46:48] Request Method | Data: "GET"
+[2025-10-29 06:46:48] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:46:48] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:46:48] Attempting to include database connection file
+[2025-10-29 06:46:48] Database connection file included successfully
+[2025-10-29 06:46:48] PDO connection exists
+[2025-10-29 06:46:48] Action requested | Data: "list"
+[2025-10-29 06:46:48] LIST: Starting listAnimals function
+[2025-10-29 06:46:48] LIST: Records fetched | Data: 0
+[2025-10-29 06:46:48] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:48:02] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:48:02] Request Method | Data: "GET"
+[2025-10-29 06:48:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:48:02] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:48:02] Attempting to include database connection file
+[2025-10-29 06:48:02] Database connection file included successfully
+[2025-10-29 06:48:02] PDO connection exists
+[2025-10-29 06:48:02] Action requested | Data: "list"
+[2025-10-29 06:48:02] LIST: Starting listAnimals function
+[2025-10-29 06:48:02] LIST: Records fetched | Data: 0
+[2025-10-29 06:48:02] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:48:13] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:48:13] Request Method | Data: "GET"
+[2025-10-29 06:48:13] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:48:13] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:48:13] Attempting to include database connection file
+[2025-10-29 06:48:13] Database connection file included successfully
+[2025-10-29 06:48:13] PDO connection exists
+[2025-10-29 06:48:13] Action requested | Data: "list"
+[2025-10-29 06:48:13] LIST: Starting listAnimals function
+[2025-10-29 06:48:13] LIST: Records fetched | Data: 0
+[2025-10-29 06:48:13] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:48:45] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:48:45] Request Method | Data: "GET"
+[2025-10-29 06:48:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:48:45] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:48:45] Attempting to include database connection file
+[2025-10-29 06:48:45] Database connection file included successfully
+[2025-10-29 06:48:45] PDO connection exists
+[2025-10-29 06:48:45] Action requested | Data: "list"
+[2025-10-29 06:48:45] LIST: Starting listAnimals function
+[2025-10-29 06:48:45] LIST: Records fetched | Data: 0
+[2025-10-29 06:48:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:50:08] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:50:08] Request Method | Data: "GET"
+[2025-10-29 06:50:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:50:08] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:50:08] Attempting to include database connection file
+[2025-10-29 06:50:08] Database connection file included successfully
+[2025-10-29 06:50:08] PDO connection exists
+[2025-10-29 06:50:08] Action requested | Data: "list"
+[2025-10-29 06:50:08] LIST: Starting listAnimals function
+[2025-10-29 06:50:08] LIST: Records fetched | Data: 0
+[2025-10-29 06:50:08] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:50:25] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:50:25] Request Method | Data: "GET"
+[2025-10-29 06:50:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:50:25] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:50:25] Attempting to include database connection file
+[2025-10-29 06:50:25] Database connection file included successfully
+[2025-10-29 06:50:25] PDO connection exists
+[2025-10-29 06:50:25] Action requested | Data: "list"
+[2025-10-29 06:50:25] LIST: Starting listAnimals function
+[2025-10-29 06:50:25] LIST: Records fetched | Data: 0
+[2025-10-29 06:50:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:53:34] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:53:34] Request Method | Data: "GET"
+[2025-10-29 06:53:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:53:34] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:53:34] Attempting to include database connection file
+[2025-10-29 06:53:34] Database connection file included successfully
+[2025-10-29 06:53:34] PDO connection exists
+[2025-10-29 06:53:34] Action requested | Data: "list"
+[2025-10-29 06:53:34] LIST: Starting listAnimals function
+[2025-10-29 06:53:34] LIST: Records fetched | Data: 0
+[2025-10-29 06:53:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:53:50] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:53:50] Request Method | Data: "GET"
+[2025-10-29 06:53:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:53:50] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:53:50] Attempting to include database connection file
+[2025-10-29 06:53:50] Database connection file included successfully
+[2025-10-29 06:53:50] PDO connection exists
+[2025-10-29 06:53:50] Action requested | Data: "list"
+[2025-10-29 06:53:50] LIST: Starting listAnimals function
+[2025-10-29 06:53:50] LIST: Records fetched | Data: 0
+[2025-10-29 06:53:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:53:55] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:53:55] Request Method | Data: "GET"
+[2025-10-29 06:53:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:53:55] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:53:55] Attempting to include database connection file
+[2025-10-29 06:53:55] Database connection file included successfully
+[2025-10-29 06:53:55] PDO connection exists
+[2025-10-29 06:53:55] Action requested | Data: "list"
+[2025-10-29 06:53:55] LIST: Starting listAnimals function
+[2025-10-29 06:53:55] LIST: Records fetched | Data: 0
+[2025-10-29 06:53:55] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:56:55] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:56:55] Request Method | Data: "GET"
+[2025-10-29 06:56:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:56:55] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:56:55] Attempting to include database connection file
+[2025-10-29 06:56:55] Database connection file included successfully
+[2025-10-29 06:56:55] PDO connection exists
+[2025-10-29 06:56:55] Action requested | Data: "list"
+[2025-10-29 06:56:55] LIST: Starting listAnimals function
+[2025-10-29 06:56:55] LIST: Records fetched | Data: 0
+[2025-10-29 06:56:55] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:57:13] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:57:13] Request Method | Data: "GET"
+[2025-10-29 06:57:13] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:57:13] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:57:13] Attempting to include database connection file
+[2025-10-29 06:57:13] Database connection file included successfully
+[2025-10-29 06:57:13] PDO connection exists
+[2025-10-29 06:57:13] Action requested | Data: "list"
+[2025-10-29 06:57:13] LIST: Starting listAnimals function
+[2025-10-29 06:57:13] LIST: Records fetched | Data: 0
+[2025-10-29 06:57:13] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:57:44] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:57:44] Request Method | Data: "GET"
+[2025-10-29 06:57:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:57:44] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:57:44] Attempting to include database connection file
+[2025-10-29 06:57:44] Database connection file included successfully
+[2025-10-29 06:57:44] PDO connection exists
+[2025-10-29 06:57:44] Action requested | Data: "list"
+[2025-10-29 06:57:44] LIST: Starting listAnimals function
+[2025-10-29 06:57:44] LIST: Records fetched | Data: 0
+[2025-10-29 06:57:44] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:57:55] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:57:55] Request Method | Data: "GET"
+[2025-10-29 06:57:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:57:55] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:57:55] Attempting to include database connection file
+[2025-10-29 06:57:55] Database connection file included successfully
+[2025-10-29 06:57:55] PDO connection exists
+[2025-10-29 06:57:55] Action requested | Data: "list"
+[2025-10-29 06:57:55] LIST: Starting listAnimals function
+[2025-10-29 06:57:55] LIST: Records fetched | Data: 0
+[2025-10-29 06:57:55] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 06:59:54] ========== ANIMALS API CALLED ==========
+[2025-10-29 06:59:54] Request Method | Data: "GET"
+[2025-10-29 06:59:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 06:59:54] GET Parameters | Data: {"action":"list"}
+[2025-10-29 06:59:54] Attempting to include database connection file
+[2025-10-29 06:59:54] Database connection file included successfully
+[2025-10-29 06:59:54] PDO connection exists
+[2025-10-29 06:59:54] Action requested | Data: "list"
+[2025-10-29 06:59:54] LIST: Starting listAnimals function
+[2025-10-29 06:59:54] LIST: Records fetched | Data: 0
+[2025-10-29 06:59:54] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:00:00] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:00:00] Request Method | Data: "GET"
+[2025-10-29 07:00:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:00:00] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:00:00] Attempting to include database connection file
+[2025-10-29 07:00:00] Database connection file included successfully
+[2025-10-29 07:00:00] PDO connection exists
+[2025-10-29 07:00:00] Action requested | Data: "list"
+[2025-10-29 07:00:00] LIST: Starting listAnimals function
+[2025-10-29 07:00:00] LIST: Records fetched | Data: 0
+[2025-10-29 07:00:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:00:24] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:00:24] Request Method | Data: "GET"
+[2025-10-29 07:00:24] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:00:24] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:00:24] Attempting to include database connection file
+[2025-10-29 07:00:24] Database connection file included successfully
+[2025-10-29 07:00:24] PDO connection exists
+[2025-10-29 07:00:24] Action requested | Data: "list"
+[2025-10-29 07:00:24] LIST: Starting listAnimals function
+[2025-10-29 07:00:24] LIST: Records fetched | Data: 0
+[2025-10-29 07:00:24] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:08:50] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:08:50] Request Method | Data: "GET"
+[2025-10-29 07:08:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:08:50] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:08:50] Attempting to include database connection file
+[2025-10-29 07:08:50] Database connection file included successfully
+[2025-10-29 07:08:50] PDO connection exists
+[2025-10-29 07:08:50] Action requested | Data: "list"
+[2025-10-29 07:08:50] LIST: Starting listAnimals function
+[2025-10-29 07:08:50] LIST: Records fetched | Data: 0
+[2025-10-29 07:08:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:11:20] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:11:20] Request Method | Data: "GET"
+[2025-10-29 07:11:20] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:11:20] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:11:20] Attempting to include database connection file
+[2025-10-29 07:11:20] Database connection file included successfully
+[2025-10-29 07:11:20] PDO connection exists
+[2025-10-29 07:11:20] Action requested | Data: "list"
+[2025-10-29 07:11:20] LIST: Starting listAnimals function
+[2025-10-29 07:11:20] LIST: Records fetched | Data: 0
+[2025-10-29 07:11:20] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:12:08] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:12:08] Request Method | Data: "POST"
+[2025-10-29 07:12:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-10-29 07:12:08] GET Parameters | Data: {"action":"add"}
+[2025-10-29 07:12:08] Attempting to include database connection file
+[2025-10-29 07:12:08] Database connection file included successfully
+[2025-10-29 07:12:08] PDO connection exists
+[2025-10-29 07:12:08] Action requested | Data: "add"
+[2025-10-29 07:12:08] CREATE: Starting createAnimal function
+[2025-10-29 07:12:08] CREATE: Raw input | Data: "{\"id\":\"\",\"year\":\"2025\",\"month\":\"10\",\"animal_type\":\"undefined\",\"quantity\":\"2\",\"notes\":\"\"}"
+[2025-10-29 07:12:08] CREATE: Decoded data | Data: {"id":"","year":"2025","month":"10","animal_type":"undefined","quantity":"2","notes":""}
+[2025-10-29 07:12:08] CREATE: New record ID | Data: "35"
+[2025-10-29 07:12:08] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:12:08] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:12:08] Request Method | Data: "GET"
+[2025-10-29 07:12:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:12:08] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:12:08] Attempting to include database connection file
+[2025-10-29 07:12:08] Database connection file included successfully
+[2025-10-29 07:12:08] PDO connection exists
+[2025-10-29 07:12:08] Action requested | Data: "list"
+[2025-10-29 07:12:08] LIST: Starting listAnimals function
+[2025-10-29 07:12:08] LIST: Records fetched | Data: 1
+[2025-10-29 07:12:08] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:13:57] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:13:57] Request Method | Data: "GET"
+[2025-10-29 07:13:57] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:13:57] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:13:57] Attempting to include database connection file
+[2025-10-29 07:13:57] Database connection file included successfully
+[2025-10-29 07:13:57] PDO connection exists
+[2025-10-29 07:13:57] Action requested | Data: "list"
+[2025-10-29 07:13:57] LIST: Starting listAnimals function
+[2025-10-29 07:13:57] LIST: Records fetched | Data: 1
+[2025-10-29 07:13:57] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:14:06] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:14:06] Request Method | Data: "GET"
+[2025-10-29 07:14:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:14:06] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:14:06] Attempting to include database connection file
+[2025-10-29 07:14:06] Database connection file included successfully
+[2025-10-29 07:14:06] PDO connection exists
+[2025-10-29 07:14:06] Action requested | Data: "list"
+[2025-10-29 07:14:06] LIST: Starting listAnimals function
+[2025-10-29 07:14:06] LIST: Records fetched | Data: 1
+[2025-10-29 07:14:06] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:16:02] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:16:02] Request Method | Data: "GET"
+[2025-10-29 07:16:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:16:02] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:16:02] Attempting to include database connection file
+[2025-10-29 07:16:02] Database connection file included successfully
+[2025-10-29 07:16:02] PDO connection exists
+[2025-10-29 07:16:02] Action requested | Data: "list"
+[2025-10-29 07:16:02] LIST: Starting listAnimals function
+[2025-10-29 07:16:02] LIST: Records fetched | Data: 1
+[2025-10-29 07:16:02] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:16:37] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:16:37] Request Method | Data: "GET"
+[2025-10-29 07:16:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:16:37] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:16:37] Attempting to include database connection file
+[2025-10-29 07:16:37] Database connection file included successfully
+[2025-10-29 07:16:37] PDO connection exists
+[2025-10-29 07:16:37] Action requested | Data: "list"
+[2025-10-29 07:16:37] LIST: Starting listAnimals function
+[2025-10-29 07:16:37] LIST: Records fetched | Data: 1
+[2025-10-29 07:16:37] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:00] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:00] Request Method | Data: "GET"
+[2025-10-29 07:25:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:25:00] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:25:00] Attempting to include database connection file
+[2025-10-29 07:25:00] Database connection file included successfully
+[2025-10-29 07:25:00] PDO connection exists
+[2025-10-29 07:25:00] Action requested | Data: "list"
+[2025-10-29 07:25:00] LIST: Starting listAnimals function
+[2025-10-29 07:25:00] LIST: Records fetched | Data: 1
+[2025-10-29 07:25:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:08] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:08] Request Method | Data: "POST"
+[2025-10-29 07:25:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-10-29 07:25:08] GET Parameters | Data: {"action":"add"}
+[2025-10-29 07:25:08] Attempting to include database connection file
+[2025-10-29 07:25:08] Database connection file included successfully
+[2025-10-29 07:25:08] PDO connection exists
+[2025-10-29 07:25:08] Action requested | Data: "add"
+[2025-10-29 07:25:08] CREATE: Starting createAnimal function
+[2025-10-29 07:25:08] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"10\",\"animal_type\":\"Horse\",\"quantity\":\"2\",\"notes\":\"dddd\"}"
+[2025-10-29 07:25:08] CREATE: Decoded data | Data: {"year":"2025","month":"10","animal_type":"Horse","quantity":"2","notes":"dddd"}
+[2025-10-29 07:25:08] CREATE: New record ID | Data: "36"
+[2025-10-29 07:25:08] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:08] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:08] Request Method | Data: "GET"
+[2025-10-29 07:25:08] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:25:08] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:25:08] Attempting to include database connection file
+[2025-10-29 07:25:08] Database connection file included successfully
+[2025-10-29 07:25:08] PDO connection exists
+[2025-10-29 07:25:08] Action requested | Data: "list"
+[2025-10-29 07:25:08] LIST: Starting listAnimals function
+[2025-10-29 07:25:08] LIST: Records fetched | Data: 2
+[2025-10-29 07:25:08] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:14] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:14] Request Method | Data: "DELETE"
+[2025-10-29 07:25:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=35"
+[2025-10-29 07:25:14] GET Parameters | Data: {"action":"delete","id":"35"}
+[2025-10-29 07:25:14] Attempting to include database connection file
+[2025-10-29 07:25:14] Database connection file included successfully
+[2025-10-29 07:25:14] PDO connection exists
+[2025-10-29 07:25:14] Action requested | Data: "delete"
+[2025-10-29 07:25:14] DELETE: Starting deleteAnimal function
+[2025-10-29 07:25:14] DELETE: ID parameter | Data: "35"
+[2025-10-29 07:25:14] DELETE: Rows affected | Data: 1
+[2025-10-29 07:25:14] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:14] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:14] Request Method | Data: "GET"
+[2025-10-29 07:25:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:25:14] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:25:14] Attempting to include database connection file
+[2025-10-29 07:25:14] Database connection file included successfully
+[2025-10-29 07:25:14] PDO connection exists
+[2025-10-29 07:25:14] Action requested | Data: "list"
+[2025-10-29 07:25:14] LIST: Starting listAnimals function
+[2025-10-29 07:25:14] LIST: Records fetched | Data: 1
+[2025-10-29 07:25:14] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:26] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:26] Request Method | Data: "POST"
+[2025-10-29 07:25:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-10-29 07:25:26] GET Parameters | Data: {"action":"add"}
+[2025-10-29 07:25:26] Attempting to include database connection file
+[2025-10-29 07:25:26] Database connection file included successfully
+[2025-10-29 07:25:26] PDO connection exists
+[2025-10-29 07:25:26] Action requested | Data: "add"
+[2025-10-29 07:25:26] CREATE: Starting createAnimal function
+[2025-10-29 07:25:26] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"11\",\"animal_type\":\"lion\",\"quantity\":\"1\",\"notes\":\"\"}"
+[2025-10-29 07:25:26] CREATE: Decoded data | Data: {"year":"2025","month":"11","animal_type":"lion","quantity":"1","notes":""}
+[2025-10-29 07:25:26] CREATE: New record ID | Data: "37"
+[2025-10-29 07:25:26] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:25:26] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:25:26] Request Method | Data: "GET"
+[2025-10-29 07:25:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:25:26] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:25:26] Attempting to include database connection file
+[2025-10-29 07:25:26] Database connection file included successfully
+[2025-10-29 07:25:26] PDO connection exists
+[2025-10-29 07:25:26] Action requested | Data: "list"
+[2025-10-29 07:25:26] LIST: Starting listAnimals function
+[2025-10-29 07:25:26] LIST: Records fetched | Data: 2
+[2025-10-29 07:25:26] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:29:22] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:29:22] Request Method | Data: "GET"
+[2025-10-29 07:29:22] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:29:22] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:29:22] Attempting to include database connection file
+[2025-10-29 07:29:22] Database connection file included successfully
+[2025-10-29 07:29:22] PDO connection exists
+[2025-10-29 07:29:22] Action requested | Data: "list"
+[2025-10-29 07:29:22] LIST: Starting listAnimals function
+[2025-10-29 07:29:22] LIST: Records fetched | Data: 2
+[2025-10-29 07:29:22] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:33:26] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:33:26] Request Method | Data: "GET"
+[2025-10-29 07:33:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:33:26] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:33:26] Attempting to include database connection file
+[2025-10-29 07:33:26] Database connection file included successfully
+[2025-10-29 07:33:26] PDO connection exists
+[2025-10-29 07:33:26] Action requested | Data: "list"
+[2025-10-29 07:33:26] LIST: Starting listAnimals function
+[2025-10-29 07:33:26] LIST: Records fetched | Data: 2
+[2025-10-29 07:33:26] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:33:47] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:33:47] Request Method | Data: "GET"
+[2025-10-29 07:33:47] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:33:47] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:33:47] Attempting to include database connection file
+[2025-10-29 07:33:47] Database connection file included successfully
+[2025-10-29 07:33:47] PDO connection exists
+[2025-10-29 07:33:47] Action requested | Data: "list"
+[2025-10-29 07:33:47] LIST: Starting listAnimals function
+[2025-10-29 07:33:47] LIST: Records fetched | Data: 2
+[2025-10-29 07:33:47] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:33:49] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:33:49] Request Method | Data: "GET"
+[2025-10-29 07:33:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:33:49] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:33:49] Attempting to include database connection file
+[2025-10-29 07:33:49] Database connection file included successfully
+[2025-10-29 07:33:49] PDO connection exists
+[2025-10-29 07:33:49] Action requested | Data: "list"
+[2025-10-29 07:33:49] LIST: Starting listAnimals function
+[2025-10-29 07:33:49] LIST: Records fetched | Data: 2
+[2025-10-29 07:33:49] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:33:58] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:33:58] Request Method | Data: "GET"
+[2025-10-29 07:33:58] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:33:58] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:33:58] Attempting to include database connection file
+[2025-10-29 07:33:58] Database connection file included successfully
+[2025-10-29 07:33:58] PDO connection exists
+[2025-10-29 07:33:58] Action requested | Data: "list"
+[2025-10-29 07:33:58] LIST: Starting listAnimals function
+[2025-10-29 07:33:58] LIST: Records fetched | Data: 2
+[2025-10-29 07:33:58] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:39:26] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:39:26] Request Method | Data: "GET"
+[2025-10-29 07:39:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:39:26] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:39:26] Attempting to include database connection file
+[2025-10-29 07:39:26] Database connection file included successfully
+[2025-10-29 07:39:26] PDO connection exists
+[2025-10-29 07:39:26] Action requested | Data: "list"
+[2025-10-29 07:39:26] LIST: Starting listAnimals function
+[2025-10-29 07:39:26] LIST: Records fetched | Data: 2
+[2025-10-29 07:39:26] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:42:30] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:42:30] Request Method | Data: "GET"
+[2025-10-29 07:42:30] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:42:30] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:42:30] Attempting to include database connection file
+[2025-10-29 07:42:30] Database connection file included successfully
+[2025-10-29 07:42:30] PDO connection exists
+[2025-10-29 07:42:30] Action requested | Data: "list"
+[2025-10-29 07:42:30] LIST: Starting listAnimals function
+[2025-10-29 07:42:30] LIST: Records fetched | Data: 2
+[2025-10-29 07:42:30] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:42:52] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:42:52] Request Method | Data: "GET"
+[2025-10-29 07:42:52] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:42:52] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:42:52] Attempting to include database connection file
+[2025-10-29 07:42:52] Database connection file included successfully
+[2025-10-29 07:42:52] PDO connection exists
+[2025-10-29 07:42:52] Action requested | Data: "list"
+[2025-10-29 07:42:52] LIST: Starting listAnimals function
+[2025-10-29 07:42:52] LIST: Records fetched | Data: 2
+[2025-10-29 07:42:52] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:42:55] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:42:55] Request Method | Data: "GET"
+[2025-10-29 07:42:55] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:42:55] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:42:55] Attempting to include database connection file
+[2025-10-29 07:42:55] Database connection file included successfully
+[2025-10-29 07:42:55] PDO connection exists
+[2025-10-29 07:42:55] Action requested | Data: "list"
+[2025-10-29 07:42:55] LIST: Starting listAnimals function
+[2025-10-29 07:42:55] LIST: Records fetched | Data: 2
+[2025-10-29 07:42:55] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:56:37] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:56:37] Request Method | Data: "GET"
+[2025-10-29 07:56:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:56:37] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:56:37] Attempting to include database connection file
+[2025-10-29 07:56:37] Database connection file included successfully
+[2025-10-29 07:56:37] PDO connection exists
+[2025-10-29 07:56:37] Action requested | Data: "list"
+[2025-10-29 07:56:37] LIST: Starting listAnimals function
+[2025-10-29 07:56:37] LIST: Records fetched | Data: 2
+[2025-10-29 07:56:37] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:56:38] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:56:38] Request Method | Data: "GET"
+[2025-10-29 07:56:38] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:56:38] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:56:38] Attempting to include database connection file
+[2025-10-29 07:56:38] Database connection file included successfully
+[2025-10-29 07:56:38] PDO connection exists
+[2025-10-29 07:56:38] Action requested | Data: "list"
+[2025-10-29 07:56:38] LIST: Starting listAnimals function
+[2025-10-29 07:56:38] LIST: Records fetched | Data: 2
+[2025-10-29 07:56:38] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:56:40] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:56:40] Request Method | Data: "GET"
+[2025-10-29 07:56:40] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:56:40] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:56:40] Attempting to include database connection file
+[2025-10-29 07:56:40] Database connection file included successfully
+[2025-10-29 07:56:40] PDO connection exists
+[2025-10-29 07:56:40] Action requested | Data: "list"
+[2025-10-29 07:56:40] LIST: Starting listAnimals function
+[2025-10-29 07:56:40] LIST: Records fetched | Data: 2
+[2025-10-29 07:56:40] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 07:56:42] ========== ANIMALS API CALLED ==========
+[2025-10-29 07:56:42] Request Method | Data: "GET"
+[2025-10-29 07:56:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 07:56:42] GET Parameters | Data: {"action":"list"}
+[2025-10-29 07:56:42] Attempting to include database connection file
+[2025-10-29 07:56:42] Database connection file included successfully
+[2025-10-29 07:56:42] PDO connection exists
+[2025-10-29 07:56:42] Action requested | Data: "list"
+[2025-10-29 07:56:42] LIST: Starting listAnimals function
+[2025-10-29 07:56:42] LIST: Records fetched | Data: 2
+[2025-10-29 07:56:42] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:16] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:16] Request Method | Data: "GET"
+[2025-10-29 08:19:16] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:19:16] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:19:16] Attempting to include database connection file
+[2025-10-29 08:19:16] Database connection file included successfully
+[2025-10-29 08:19:16] PDO connection exists
+[2025-10-29 08:19:16] Action requested | Data: "list"
+[2025-10-29 08:19:16] LIST: Starting listAnimals function
+[2025-10-29 08:19:16] LIST: Records fetched | Data: 2
+[2025-10-29 08:19:16] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:19] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:19] Request Method | Data: "GET"
+[2025-10-29 08:19:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:19:19] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:19:19] Attempting to include database connection file
+[2025-10-29 08:19:19] Database connection file included successfully
+[2025-10-29 08:19:19] PDO connection exists
+[2025-10-29 08:19:19] Action requested | Data: "list"
+[2025-10-29 08:19:19] LIST: Starting listAnimals function
+[2025-10-29 08:19:19] LIST: Records fetched | Data: 2
+[2025-10-29 08:19:19] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:38] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:38] Request Method | Data: "GET"
+[2025-10-29 08:19:38] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:19:38] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:19:38] Attempting to include database connection file
+[2025-10-29 08:19:38] Database connection file included successfully
+[2025-10-29 08:19:38] PDO connection exists
+[2025-10-29 08:19:38] Action requested | Data: "list"
+[2025-10-29 08:19:38] LIST: Starting listAnimals function
+[2025-10-29 08:19:38] LIST: Records fetched | Data: 2
+[2025-10-29 08:19:38] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:41] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:41] Request Method | Data: "DELETE"
+[2025-10-29 08:19:41] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=37"
+[2025-10-29 08:19:41] GET Parameters | Data: {"action":"delete","id":"37"}
+[2025-10-29 08:19:41] Attempting to include database connection file
+[2025-10-29 08:19:41] Database connection file included successfully
+[2025-10-29 08:19:41] PDO connection exists
+[2025-10-29 08:19:41] Action requested | Data: "delete"
+[2025-10-29 08:19:41] DELETE: Starting deleteAnimal function
+[2025-10-29 08:19:41] DELETE: ID parameter | Data: "37"
+[2025-10-29 08:19:41] DELETE: Rows affected | Data: 1
+[2025-10-29 08:19:41] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:41] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:41] Request Method | Data: "GET"
+[2025-10-29 08:19:41] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:19:41] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:19:41] Attempting to include database connection file
+[2025-10-29 08:19:41] Database connection file included successfully
+[2025-10-29 08:19:41] PDO connection exists
+[2025-10-29 08:19:41] Action requested | Data: "list"
+[2025-10-29 08:19:41] LIST: Starting listAnimals function
+[2025-10-29 08:19:41] LIST: Records fetched | Data: 1
+[2025-10-29 08:19:41] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:43] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:43] Request Method | Data: "DELETE"
+[2025-10-29 08:19:43] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=36"
+[2025-10-29 08:19:43] GET Parameters | Data: {"action":"delete","id":"36"}
+[2025-10-29 08:19:43] Attempting to include database connection file
+[2025-10-29 08:19:43] Database connection file included successfully
+[2025-10-29 08:19:43] PDO connection exists
+[2025-10-29 08:19:43] Action requested | Data: "delete"
+[2025-10-29 08:19:43] DELETE: Starting deleteAnimal function
+[2025-10-29 08:19:43] DELETE: ID parameter | Data: "36"
+[2025-10-29 08:19:43] DELETE: Rows affected | Data: 1
+[2025-10-29 08:19:43] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:19:43] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:19:43] Request Method | Data: "GET"
+[2025-10-29 08:19:43] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:19:43] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:19:43] Attempting to include database connection file
+[2025-10-29 08:19:43] Database connection file included successfully
+[2025-10-29 08:19:43] PDO connection exists
+[2025-10-29 08:19:43] Action requested | Data: "list"
+[2025-10-29 08:19:43] LIST: Starting listAnimals function
+[2025-10-29 08:19:43] LIST: Records fetched | Data: 0
+[2025-10-29 08:19:43] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:20:36] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:20:36] Request Method | Data: "GET"
+[2025-10-29 08:20:36] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:20:36] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:20:36] Attempting to include database connection file
+[2025-10-29 08:20:36] Database connection file included successfully
+[2025-10-29 08:20:36] PDO connection exists
+[2025-10-29 08:20:36] Action requested | Data: "list"
+[2025-10-29 08:20:36] LIST: Starting listAnimals function
+[2025-10-29 08:20:36] LIST: Records fetched | Data: 0
+[2025-10-29 08:20:36] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:20:38] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:20:38] Request Method | Data: "GET"
+[2025-10-29 08:20:38] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:20:38] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:20:38] Attempting to include database connection file
+[2025-10-29 08:20:38] Database connection file included successfully
+[2025-10-29 08:20:38] PDO connection exists
+[2025-10-29 08:20:38] Action requested | Data: "list"
+[2025-10-29 08:20:38] LIST: Starting listAnimals function
+[2025-10-29 08:20:38] LIST: Records fetched | Data: 0
+[2025-10-29 08:20:38] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:22:04] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:22:04] Request Method | Data: "GET"
+[2025-10-29 08:22:04] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:22:04] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:22:04] Attempting to include database connection file
+[2025-10-29 08:22:04] Database connection file included successfully
+[2025-10-29 08:22:04] PDO connection exists
+[2025-10-29 08:22:04] Action requested | Data: "list"
+[2025-10-29 08:22:04] LIST: Starting listAnimals function
+[2025-10-29 08:22:04] LIST: Records fetched | Data: 0
+[2025-10-29 08:22:04] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:22:21] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:22:21] Request Method | Data: "POST"
+[2025-10-29 08:22:21] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-10-29 08:22:21] GET Parameters | Data: {"action":"add"}
+[2025-10-29 08:22:21] Attempting to include database connection file
+[2025-10-29 08:22:21] Database connection file included successfully
+[2025-10-29 08:22:21] PDO connection exists
+[2025-10-29 08:22:21] Action requested | Data: "add"
+[2025-10-29 08:22:21] CREATE: Starting createAnimal function
+[2025-10-29 08:22:21] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"10\",\"animal_type\":\"Dingle\",\"quantity\":\"1\",\"notes\":\"\"}"
+[2025-10-29 08:22:21] CREATE: Decoded data | Data: {"year":"2025","month":"10","animal_type":"Dingle","quantity":"1","notes":""}
+[2025-10-29 08:22:21] CREATE: New record ID | Data: "38"
+[2025-10-29 08:22:21] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:22:21] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:22:21] Request Method | Data: "GET"
+[2025-10-29 08:22:21] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:22:21] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:22:21] Attempting to include database connection file
+[2025-10-29 08:22:21] Database connection file included successfully
+[2025-10-29 08:22:21] PDO connection exists
+[2025-10-29 08:22:21] Action requested | Data: "list"
+[2025-10-29 08:22:21] LIST: Starting listAnimals function
+[2025-10-29 08:22:21] LIST: Records fetched | Data: 1
+[2025-10-29 08:22:21] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:22:41] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:22:41] Request Method | Data: "GET"
+[2025-10-29 08:22:41] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:22:41] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:22:41] Attempting to include database connection file
+[2025-10-29 08:22:41] Database connection file included successfully
+[2025-10-29 08:22:41] PDO connection exists
+[2025-10-29 08:22:41] Action requested | Data: "list"
+[2025-10-29 08:22:41] LIST: Starting listAnimals function
+[2025-10-29 08:22:41] LIST: Records fetched | Data: 1
+[2025-10-29 08:22:41] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:39:45] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:39:45] Request Method | Data: "GET"
+[2025-10-29 08:39:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:39:45] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:39:45] Attempting to include database connection file
+[2025-10-29 08:39:45] Database connection file included successfully
+[2025-10-29 08:39:45] PDO connection exists
+[2025-10-29 08:39:45] Action requested | Data: "list"
+[2025-10-29 08:39:45] LIST: Starting listAnimals function
+[2025-10-29 08:39:45] LIST: Records fetched | Data: 1
+[2025-10-29 08:39:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:40:13] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:40:13] Request Method | Data: "GET"
+[2025-10-29 08:40:13] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:40:13] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:40:13] Attempting to include database connection file
+[2025-10-29 08:40:13] Database connection file included successfully
+[2025-10-29 08:40:13] PDO connection exists
+[2025-10-29 08:40:13] Action requested | Data: "list"
+[2025-10-29 08:40:13] LIST: Starting listAnimals function
+[2025-10-29 08:40:13] LIST: Records fetched | Data: 1
+[2025-10-29 08:40:13] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:40:34] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:40:34] Request Method | Data: "DELETE"
+[2025-10-29 08:40:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=38"
+[2025-10-29 08:40:34] GET Parameters | Data: {"action":"delete","id":"38"}
+[2025-10-29 08:40:34] Attempting to include database connection file
+[2025-10-29 08:40:34] Database connection file included successfully
+[2025-10-29 08:40:34] PDO connection exists
+[2025-10-29 08:40:34] Action requested | Data: "delete"
+[2025-10-29 08:40:34] DELETE: Starting deleteAnimal function
+[2025-10-29 08:40:34] DELETE: ID parameter | Data: "38"
+[2025-10-29 08:40:34] DELETE: Rows affected | Data: 1
+[2025-10-29 08:40:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:40:34] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:40:34] Request Method | Data: "GET"
+[2025-10-29 08:40:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:40:34] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:40:34] Attempting to include database connection file
+[2025-10-29 08:40:34] Database connection file included successfully
+[2025-10-29 08:40:34] PDO connection exists
+[2025-10-29 08:40:34] Action requested | Data: "list"
+[2025-10-29 08:40:34] LIST: Starting listAnimals function
+[2025-10-29 08:40:34] LIST: Records fetched | Data: 0
+[2025-10-29 08:40:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 08:40:45] ========== ANIMALS API CALLED ==========
+[2025-10-29 08:40:45] Request Method | Data: "GET"
+[2025-10-29 08:40:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 08:40:45] GET Parameters | Data: {"action":"list"}
+[2025-10-29 08:40:45] Attempting to include database connection file
+[2025-10-29 08:40:45] Database connection file included successfully
+[2025-10-29 08:40:45] PDO connection exists
+[2025-10-29 08:40:45] Action requested | Data: "list"
+[2025-10-29 08:40:45] LIST: Starting listAnimals function
+[2025-10-29 08:40:45] LIST: Records fetched | Data: 0
+[2025-10-29 08:40:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 09:09:25] ========== ANIMALS API CALLED ==========
+[2025-10-29 09:09:25] Request Method | Data: "GET"
+[2025-10-29 09:09:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 09:09:25] GET Parameters | Data: {"action":"list"}
+[2025-10-29 09:09:25] Attempting to include database connection file
+[2025-10-29 09:09:25] Database connection file included successfully
+[2025-10-29 09:09:25] PDO connection exists
+[2025-10-29 09:09:25] Action requested | Data: "list"
+[2025-10-29 09:09:25] LIST: Starting listAnimals function
+[2025-10-29 09:09:25] LIST: Records fetched | Data: 0
+[2025-10-29 09:09:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 09:21:54] ========== ANIMALS API CALLED ==========
+[2025-10-29 09:21:54] Request Method | Data: "GET"
+[2025-10-29 09:21:54] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 09:21:54] GET Parameters | Data: {"action":"list"}
+[2025-10-29 09:21:54] Attempting to include database connection file
+[2025-10-29 09:21:54] Database connection file included successfully
+[2025-10-29 09:21:54] PDO connection exists
+[2025-10-29 09:21:54] Action requested | Data: "list"
+[2025-10-29 09:21:54] LIST: Starting listAnimals function
+[2025-10-29 09:21:54] LIST: Records fetched | Data: 0
+[2025-10-29 09:21:54] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 09:24:02] ========== ANIMALS API CALLED ==========
+[2025-10-29 09:24:02] Request Method | Data: "GET"
+[2025-10-29 09:24:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 09:24:02] GET Parameters | Data: {"action":"list"}
+[2025-10-29 09:24:02] Attempting to include database connection file
+[2025-10-29 09:24:02] Database connection file included successfully
+[2025-10-29 09:24:02] PDO connection exists
+[2025-10-29 09:24:02] Action requested | Data: "list"
+[2025-10-29 09:24:02] LIST: Starting listAnimals function
+[2025-10-29 09:24:02] LIST: Records fetched | Data: 0
+[2025-10-29 09:24:02] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-29 23:45:53] ========== ANIMALS API CALLED ==========
+[2025-10-29 23:45:53] Request Method | Data: "GET"
+[2025-10-29 23:45:53] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-29 23:45:53] GET Parameters | Data: {"action":"list"}
+[2025-10-29 23:45:53] Attempting to include database connection file
+[2025-10-29 23:45:53] Database connection file included successfully
+[2025-10-29 23:45:53] PDO connection exists
+[2025-10-29 23:45:53] Action requested | Data: "list"
+[2025-10-29 23:45:53] LIST: Starting listAnimals function
+[2025-10-29 23:45:53] LIST: Records fetched | Data: 0
+[2025-10-29 23:45:53] ========== ANIMALS API COMPLETED ==========
+
+[2025-10-30 01:04:20] ========== ANIMALS API CALLED ==========
+[2025-10-30 01:04:20] Request Method | Data: "GET"
+[2025-10-30 01:04:20] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-10-30 01:04:20] GET Parameters | Data: {"action":"list"}
+[2025-10-30 01:04:20] Attempting to include database connection file
+[2025-10-30 01:04:20] Database connection file included successfully
+[2025-10-30 01:04:20] PDO connection exists
+[2025-10-30 01:04:20] Action requested | Data: "list"
+[2025-10-30 01:04:20] LIST: Starting listAnimals function
+[2025-10-30 01:04:20] LIST: Records fetched | Data: 0
+[2025-10-30 01:04:20] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:27:30] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:27:30] Request Method | Data: "GET"
+[2025-11-03 01:27:30] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:27:30] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:27:30] Attempting to include database connection file
+[2025-11-03 01:27:30] Database connection file included successfully
+[2025-11-03 01:27:30] PDO connection exists
+[2025-11-03 01:27:30] Action requested | Data: "list"
+[2025-11-03 01:27:30] LIST: Starting listAnimals function
+[2025-11-03 01:27:30] LIST: Records fetched | Data: 0
+[2025-11-03 01:27:30] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:28:17] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:28:17] Request Method | Data: "GET"
+[2025-11-03 01:28:17] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:28:17] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:28:17] Attempting to include database connection file
+[2025-11-03 01:28:17] Database connection file included successfully
+[2025-11-03 01:28:17] PDO connection exists
+[2025-11-03 01:28:17] Action requested | Data: "list"
+[2025-11-03 01:28:17] LIST: Starting listAnimals function
+[2025-11-03 01:28:17] LIST: Records fetched | Data: 0
+[2025-11-03 01:28:17] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:29:02] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:29:02] Request Method | Data: "GET"
+[2025-11-03 01:29:02] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:29:02] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:29:02] Attempting to include database connection file
+[2025-11-03 01:29:02] Database connection file included successfully
+[2025-11-03 01:29:02] PDO connection exists
+[2025-11-03 01:29:02] Action requested | Data: "list"
+[2025-11-03 01:29:02] LIST: Starting listAnimals function
+[2025-11-03 01:29:02] LIST: Records fetched | Data: 0
+[2025-11-03 01:29:02] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:29:44] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:29:44] Request Method | Data: "POST"
+[2025-11-03 01:29:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-03 01:29:44] GET Parameters | Data: {"action":"add"}
+[2025-11-03 01:29:44] Attempting to include database connection file
+[2025-11-03 01:29:44] Database connection file included successfully
+[2025-11-03 01:29:44] PDO connection exists
+[2025-11-03 01:29:44] Action requested | Data: "add"
+[2025-11-03 01:29:44] CREATE: Starting createAnimal function
+[2025-11-03 01:29:44] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"11\",\"animal_type\":\"tiger\",\"quantity\":\"1\",\"notes\":\"Passsssssasa\"}"
+[2025-11-03 01:29:44] CREATE: Decoded data | Data: {"year":"2025","month":"11","animal_type":"tiger","quantity":"1","notes":"Passsssssasa"}
+[2025-11-03 01:29:44] CREATE: New record ID | Data: "39"
+[2025-11-03 01:29:44] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:29:44] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:29:44] Request Method | Data: "GET"
+[2025-11-03 01:29:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:29:44] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:29:44] Attempting to include database connection file
+[2025-11-03 01:29:44] Database connection file included successfully
+[2025-11-03 01:29:44] PDO connection exists
+[2025-11-03 01:29:44] Action requested | Data: "list"
+[2025-11-03 01:29:44] LIST: Starting listAnimals function
+[2025-11-03 01:29:44] LIST: Records fetched | Data: 1
+[2025-11-03 01:29:44] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:30:06] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:30:06] Request Method | Data: "POST"
+[2025-11-03 01:30:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-03 01:30:06] GET Parameters | Data: {"action":"add"}
+[2025-11-03 01:30:06] Attempting to include database connection file
+[2025-11-03 01:30:06] Database connection file included successfully
+[2025-11-03 01:30:06] PDO connection exists
+[2025-11-03 01:30:06] Action requested | Data: "add"
+[2025-11-03 01:30:06] CREATE: Starting createAnimal function
+[2025-11-03 01:30:06] CREATE: Raw input | Data: "{\"year\":\"2025\",\"month\":\"11\",\"animal_type\":\"lion\",\"quantity\":\"2\",\"notes\":\"css\"}"
+[2025-11-03 01:30:06] CREATE: Decoded data | Data: {"year":"2025","month":"11","animal_type":"lion","quantity":"2","notes":"css"}
+[2025-11-03 01:30:06] CREATE: New record ID | Data: "40"
+[2025-11-03 01:30:06] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:30:06] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:30:06] Request Method | Data: "GET"
+[2025-11-03 01:30:06] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:30:06] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:30:06] Attempting to include database connection file
+[2025-11-03 01:30:06] Database connection file included successfully
+[2025-11-03 01:30:06] PDO connection exists
+[2025-11-03 01:30:06] Action requested | Data: "list"
+[2025-11-03 01:30:06] LIST: Starting listAnimals function
+[2025-11-03 01:30:06] LIST: Records fetched | Data: 2
+[2025-11-03 01:30:06] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-03 01:30:35] ========== ANIMALS API CALLED ==========
+[2025-11-03 01:30:35] Request Method | Data: "GET"
+[2025-11-03 01:30:35] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-03 01:30:35] GET Parameters | Data: {"action":"list"}
+[2025-11-03 01:30:35] Attempting to include database connection file
+[2025-11-03 01:30:35] Database connection file included successfully
+[2025-11-03 01:30:35] PDO connection exists
+[2025-11-03 01:30:35] Action requested | Data: "list"
+[2025-11-03 01:30:35] LIST: Starting listAnimals function
+[2025-11-03 01:30:35] LIST: Records fetched | Data: 2
+[2025-11-03 01:30:35] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-04 07:34:34] ========== ANIMALS API CALLED ==========
+[2025-11-04 07:34:34] Request Method | Data: "GET"
+[2025-11-04 07:34:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-04 07:34:34] GET Parameters | Data: {"action":"list"}
+[2025-11-04 07:34:34] Attempting to include database connection file
+[2025-11-04 07:34:34] Database connection file included successfully
+[2025-11-04 07:34:34] PDO connection exists
+[2025-11-04 07:34:34] Action requested | Data: "list"
+[2025-11-04 07:34:34] LIST: Starting listAnimals function
+[2025-11-04 07:34:34] LIST: Records fetched | Data: 2
+[2025-11-04 07:34:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:03:36] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:03:36] Request Method | Data: "GET"
+[2025-11-06 01:03:36] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:03:36] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:03:36] Attempting to include database connection file
+[2025-11-06 01:03:36] Database connection file included successfully
+[2025-11-06 01:03:36] PDO connection exists
+[2025-11-06 01:03:36] Action requested | Data: "list"
+[2025-11-06 01:03:36] LIST: Starting listAnimals function
+[2025-11-06 01:03:36] LIST: Records fetched | Data: 2
+[2025-11-06 01:03:36] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:08:49] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:08:49] Request Method | Data: "GET"
+[2025-11-06 01:08:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:08:49] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:08:49] Attempting to include database connection file
+[2025-11-06 01:08:49] Database connection file included successfully
+[2025-11-06 01:08:49] PDO connection exists
+[2025-11-06 01:08:49] Action requested | Data: "list"
+[2025-11-06 01:08:49] LIST: Starting listAnimals function
+[2025-11-06 01:08:49] LIST: Records fetched | Data: 2
+[2025-11-06 01:08:49] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:09:10] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:09:10] Request Method | Data: "GET"
+[2025-11-06 01:09:10] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:09:10] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:09:10] Attempting to include database connection file
+[2025-11-06 01:09:10] Database connection file included successfully
+[2025-11-06 01:09:10] PDO connection exists
+[2025-11-06 01:09:10] Action requested | Data: "list"
+[2025-11-06 01:09:10] LIST: Starting listAnimals function
+[2025-11-06 01:09:10] LIST: Records fetched | Data: 2
+[2025-11-06 01:09:10] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:28] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:28] Request Method | Data: "GET"
+[2025-11-06 01:13:28] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:13:28] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:28] Attempting to include database connection file
+[2025-11-06 01:13:28] Database connection file included successfully
+[2025-11-06 01:13:28] PDO connection exists
+[2025-11-06 01:13:28] Action requested | Data: "list"
+[2025-11-06 01:13:28] LIST: Starting listAnimals function
+[2025-11-06 01:13:28] LIST: Records fetched | Data: 2
+[2025-11-06 01:13:28] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:31] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:31] Request Method | Data: "GET"
+[2025-11-06 01:13:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:13:31] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:31] Attempting to include database connection file
+[2025-11-06 01:13:31] Database connection file included successfully
+[2025-11-06 01:13:31] PDO connection exists
+[2025-11-06 01:13:31] Action requested | Data: "list"
+[2025-11-06 01:13:31] LIST: Starting listAnimals function
+[2025-11-06 01:13:31] LIST: Records fetched | Data: 2
+[2025-11-06 01:13:31] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:39] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:39] Request Method | Data: "DELETE"
+[2025-11-06 01:13:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=40"
+[2025-11-06 01:13:39] GET Parameters | Data: {"action":"delete","id":"40"}
+[2025-11-06 01:13:39] Attempting to include database connection file
+[2025-11-06 01:13:39] Database connection file included successfully
+[2025-11-06 01:13:39] PDO connection exists
+[2025-11-06 01:13:39] Action requested | Data: "delete"
+[2025-11-06 01:13:39] DELETE: Starting deleteAnimal function
+[2025-11-06 01:13:39] DELETE: ID parameter | Data: "40"
+[2025-11-06 01:13:39] DELETE: Rows affected | Data: 1
+[2025-11-06 01:13:39] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:39] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:39] Request Method | Data: "GET"
+[2025-11-06 01:13:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:13:39] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:39] Attempting to include database connection file
+[2025-11-06 01:13:39] Database connection file included successfully
+[2025-11-06 01:13:39] PDO connection exists
+[2025-11-06 01:13:39] Action requested | Data: "list"
+[2025-11-06 01:13:39] LIST: Starting listAnimals function
+[2025-11-06 01:13:39] LIST: Records fetched | Data: 1
+[2025-11-06 01:13:39] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:42] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:42] Request Method | Data: "DELETE"
+[2025-11-06 01:13:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=39"
+[2025-11-06 01:13:42] GET Parameters | Data: {"action":"delete","id":"39"}
+[2025-11-06 01:13:42] Attempting to include database connection file
+[2025-11-06 01:13:42] Database connection file included successfully
+[2025-11-06 01:13:42] PDO connection exists
+[2025-11-06 01:13:42] Action requested | Data: "delete"
+[2025-11-06 01:13:42] DELETE: Starting deleteAnimal function
+[2025-11-06 01:13:42] DELETE: ID parameter | Data: "39"
+[2025-11-06 01:13:42] DELETE: Rows affected | Data: 1
+[2025-11-06 01:13:42] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:13:42] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:13:42] Request Method | Data: "GET"
+[2025-11-06 01:13:42] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:13:42] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:13:42] Attempting to include database connection file
+[2025-11-06 01:13:42] Database connection file included successfully
+[2025-11-06 01:13:42] PDO connection exists
+[2025-11-06 01:13:42] Action requested | Data: "list"
+[2025-11-06 01:13:42] LIST: Starting listAnimals function
+[2025-11-06 01:13:42] LIST: Records fetched | Data: 0
+[2025-11-06 01:13:42] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:14:01] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:14:01] Request Method | Data: "GET"
+[2025-11-06 01:14:01] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:14:01] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:14:01] Attempting to include database connection file
+[2025-11-06 01:14:01] Database connection file included successfully
+[2025-11-06 01:14:01] PDO connection exists
+[2025-11-06 01:14:01] Action requested | Data: "list"
+[2025-11-06 01:14:01] LIST: Starting listAnimals function
+[2025-11-06 01:14:01] LIST: Records fetched | Data: 0
+[2025-11-06 01:14:01] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:27:49] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:27:49] Request Method | Data: "GET"
+[2025-11-06 01:27:49] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:27:49] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:27:49] Attempting to include database connection file
+[2025-11-06 01:27:50] Database connection file included successfully
+[2025-11-06 01:27:50] PDO connection exists
+[2025-11-06 01:27:50] Action requested | Data: "list"
+[2025-11-06 01:27:50] LIST: Starting listAnimals function
+[2025-11-06 01:27:50] LIST: Records fetched | Data: 0
+[2025-11-06 01:27:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-06 01:27:51] ========== ANIMALS API CALLED ==========
+[2025-11-06 01:27:51] Request Method | Data: "GET"
+[2025-11-06 01:27:51] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-06 01:27:51] GET Parameters | Data: {"action":"list"}
+[2025-11-06 01:27:51] Attempting to include database connection file
+[2025-11-06 01:27:51] Database connection file included successfully
+[2025-11-06 01:27:51] PDO connection exists
+[2025-11-06 01:27:51] Action requested | Data: "list"
+[2025-11-06 01:27:51] LIST: Starting listAnimals function
+[2025-11-06 01:27:51] LIST: Records fetched | Data: 0
+[2025-11-06 01:27:51] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 01:12:11] ========== ANIMALS API CALLED ==========
+[2025-11-10 01:12:11] Request Method | Data: "GET"
+[2025-11-10 01:12:11] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 01:12:11] GET Parameters | Data: {"action":"list"}
+[2025-11-10 01:12:11] Attempting to include database connection file
+[2025-11-10 01:12:11] Database connection file included successfully
+[2025-11-10 01:12:11] PDO connection exists
+[2025-11-10 01:12:11] Action requested | Data: "list"
+[2025-11-10 01:12:11] LIST: Starting listAnimals function
+[2025-11-10 01:12:11] LIST: Records fetched | Data: 0
+[2025-11-10 01:12:11] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 03:47:50] ========== ANIMALS API CALLED ==========
+[2025-11-10 03:47:50] Request Method | Data: "GET"
+[2025-11-10 03:47:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 03:47:50] GET Parameters | Data: {"action":"list"}
+[2025-11-10 03:47:50] Attempting to include database connection file
+[2025-11-10 03:47:50] Database connection file included successfully
+[2025-11-10 03:47:50] PDO connection exists
+[2025-11-10 03:47:50] Action requested | Data: "list"
+[2025-11-10 03:47:50] LIST: Starting listAnimals function
+[2025-11-10 03:47:50] LIST: Records fetched | Data: 0
+[2025-11-10 03:47:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:08:19] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:08:19] Request Method | Data: "GET"
+[2025-11-10 04:08:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:08:19] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:08:19] Attempting to include database connection file
+[2025-11-10 04:08:20] Database connection file included successfully
+[2025-11-10 04:08:20] PDO connection exists
+[2025-11-10 04:08:20] Action requested | Data: "list"
+[2025-11-10 04:08:20] LIST: Starting listAnimals function
+[2025-11-10 04:08:20] LIST: Records fetched | Data: 0
+[2025-11-10 04:08:20] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:26:14] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:26:14] Request Method | Data: "GET"
+[2025-11-10 04:26:14] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:26:14] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:26:14] Attempting to include database connection file
+[2025-11-10 04:26:14] Database connection file included successfully
+[2025-11-10 04:26:14] PDO connection exists
+[2025-11-10 04:26:14] Action requested | Data: "list"
+[2025-11-10 04:26:14] LIST: Starting listAnimals function
+[2025-11-10 04:26:14] LIST: Records fetched | Data: 0
+[2025-11-10 04:26:14] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:26:24] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:26:24] Request Method | Data: "GET"
+[2025-11-10 04:26:24] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:26:24] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:26:24] Attempting to include database connection file
+[2025-11-10 04:26:24] Database connection file included successfully
+[2025-11-10 04:26:24] PDO connection exists
+[2025-11-10 04:26:24] Action requested | Data: "list"
+[2025-11-10 04:26:24] LIST: Starting listAnimals function
+[2025-11-10 04:26:24] LIST: Records fetched | Data: 0
+[2025-11-10 04:26:24] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:39:40] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:39:40] Request Method | Data: "GET"
+[2025-11-10 04:39:40] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:39:40] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:39:40] Attempting to include database connection file
+[2025-11-10 04:39:40] Database connection file included successfully
+[2025-11-10 04:39:40] PDO connection exists
+[2025-11-10 04:39:40] Action requested | Data: "list"
+[2025-11-10 04:39:40] LIST: Starting listAnimals function
+[2025-11-10 04:39:40] LIST: Records fetched | Data: 0
+[2025-11-10 04:39:40] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:46:20] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:46:20] Request Method | Data: "GET"
+[2025-11-10 04:46:20] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:46:20] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:46:20] Attempting to include database connection file
+[2025-11-10 04:46:20] Database connection file included successfully
+[2025-11-10 04:46:20] PDO connection exists
+[2025-11-10 04:46:20] Action requested | Data: "list"
+[2025-11-10 04:46:20] LIST: Starting listAnimals function
+[2025-11-10 04:46:20] LIST: Records fetched | Data: 0
+[2025-11-10 04:46:20] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:46:24] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:46:24] Request Method | Data: "GET"
+[2025-11-10 04:46:24] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:46:24] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:46:24] Attempting to include database connection file
+[2025-11-10 04:46:24] Database connection file included successfully
+[2025-11-10 04:46:24] PDO connection exists
+[2025-11-10 04:46:24] Action requested | Data: "list"
+[2025-11-10 04:46:24] LIST: Starting listAnimals function
+[2025-11-10 04:46:24] LIST: Records fetched | Data: 0
+[2025-11-10 04:46:24] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:46:26] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:46:26] Request Method | Data: "GET"
+[2025-11-10 04:46:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:46:26] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:46:26] Attempting to include database connection file
+[2025-11-10 04:46:26] Database connection file included successfully
+[2025-11-10 04:46:26] PDO connection exists
+[2025-11-10 04:46:26] Action requested | Data: "list"
+[2025-11-10 04:46:26] LIST: Starting listAnimals function
+[2025-11-10 04:46:26] LIST: Records fetched | Data: 0
+[2025-11-10 04:46:26] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:47:47] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:47:47] Request Method | Data: "GET"
+[2025-11-10 04:47:47] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:47:47] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:47:47] Attempting to include database connection file
+[2025-11-10 04:47:47] Database connection file included successfully
+[2025-11-10 04:47:47] PDO connection exists
+[2025-11-10 04:47:47] Action requested | Data: "list"
+[2025-11-10 04:47:47] LIST: Starting listAnimals function
+[2025-11-10 04:47:47] LIST: Records fetched | Data: 0
+[2025-11-10 04:47:47] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:47:58] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:47:58] Request Method | Data: "GET"
+[2025-11-10 04:47:58] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:47:58] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:47:58] Attempting to include database connection file
+[2025-11-10 04:47:58] Database connection file included successfully
+[2025-11-10 04:47:58] PDO connection exists
+[2025-11-10 04:47:58] Action requested | Data: "list"
+[2025-11-10 04:47:58] LIST: Starting listAnimals function
+[2025-11-10 04:47:58] LIST: Records fetched | Data: 0
+[2025-11-10 04:47:58] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:48:31] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:48:31] Request Method | Data: "GET"
+[2025-11-10 04:48:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:48:31] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:48:31] Attempting to include database connection file
+[2025-11-10 04:48:31] Database connection file included successfully
+[2025-11-10 04:48:31] PDO connection exists
+[2025-11-10 04:48:31] Action requested | Data: "list"
+[2025-11-10 04:48:31] LIST: Starting listAnimals function
+[2025-11-10 04:48:31] LIST: Records fetched | Data: 0
+[2025-11-10 04:48:31] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:49:00] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:49:00] Request Method | Data: "GET"
+[2025-11-10 04:49:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:49:00] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:49:00] Attempting to include database connection file
+[2025-11-10 04:49:00] Database connection file included successfully
+[2025-11-10 04:49:00] PDO connection exists
+[2025-11-10 04:49:00] Action requested | Data: "list"
+[2025-11-10 04:49:00] LIST: Starting listAnimals function
+[2025-11-10 04:49:00] LIST: Records fetched | Data: 0
+[2025-11-10 04:49:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:49:25] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:49:25] Request Method | Data: "GET"
+[2025-11-10 04:49:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 04:49:25] GET Parameters | Data: {"action":"list"}
+[2025-11-10 04:49:25] Attempting to include database connection file
+[2025-11-10 04:49:25] Database connection file included successfully
+[2025-11-10 04:49:25] PDO connection exists
+[2025-11-10 04:49:25] Action requested | Data: "list"
+[2025-11-10 04:49:25] LIST: Starting listAnimals function
+[2025-11-10 04:49:25] LIST: Records fetched | Data: 0
+[2025-11-10 04:49:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:49:39] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:49:39] Request Method | Data: "POST"
+[2025-11-10 04:49:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 04:49:39] GET Parameters | Data: {"action":"add"}
+[2025-11-10 04:49:39] Attempting to include database connection file
+[2025-11-10 04:49:39] Database connection file included successfully
+[2025-11-10 04:49:39] PDO connection exists
+[2025-11-10 04:49:39] Action requested | Data: "add"
+[2025-11-10 04:49:39] CREATE: Starting createAnimal function
+[2025-11-10 04:49:39] CREATE: Raw input | Data: ""
+[2025-11-10 04:49:39] CREATE: Decoded data
+[2025-11-10 04:49:39] CREATE ERROR | Data: "Invalid JSON data"
+[2025-11-10 04:49:39] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:49:57] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:49:57] Request Method | Data: "POST"
+[2025-11-10 04:49:57] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 04:49:57] GET Parameters | Data: {"action":"add"}
+[2025-11-10 04:49:57] Attempting to include database connection file
+[2025-11-10 04:49:57] Database connection file included successfully
+[2025-11-10 04:49:57] PDO connection exists
+[2025-11-10 04:49:57] Action requested | Data: "add"
+[2025-11-10 04:49:57] CREATE: Starting createAnimal function
+[2025-11-10 04:49:57] CREATE: Raw input | Data: ""
+[2025-11-10 04:49:57] CREATE: Decoded data
+[2025-11-10 04:49:57] CREATE ERROR | Data: "Invalid JSON data"
+[2025-11-10 04:49:57] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 04:50:44] ========== ANIMALS API CALLED ==========
+[2025-11-10 04:50:44] Request Method | Data: "POST"
+[2025-11-10 04:50:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 04:50:44] GET Parameters | Data: {"action":"add"}
+[2025-11-10 04:50:44] Attempting to include database connection file
+[2025-11-10 04:50:44] Database connection file included successfully
+[2025-11-10 04:50:44] PDO connection exists
+[2025-11-10 04:50:44] Action requested | Data: "add"
+[2025-11-10 04:50:44] CREATE: Starting createAnimal function
+[2025-11-10 04:50:44] CREATE: Raw input | Data: ""
+[2025-11-10 04:50:44] CREATE: Decoded data
+[2025-11-10 04:50:44] CREATE ERROR | Data: "Invalid JSON data"
+[2025-11-10 04:50:44] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:17:28] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:17:28] Request Method | Data: "GET"
+[2025-11-10 06:17:28] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 06:17:28] GET Parameters | Data: {"action":"list"}
+[2025-11-10 06:17:28] Attempting to include database connection file
+[2025-11-10 06:17:28] Database connection file included successfully
+[2025-11-10 06:17:28] PDO connection exists
+[2025-11-10 06:17:28] Action requested | Data: "list"
+[2025-11-10 06:17:28] LIST: Starting listAnimals function
+[2025-11-10 06:17:28] LIST: Records fetched | Data: 0
+[2025-11-10 06:17:28] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:17:40] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:17:40] Request Method | Data: "POST"
+[2025-11-10 06:17:40] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 06:17:40] GET Parameters | Data: {"action":"add"}
+[2025-11-10 06:17:40] Attempting to include database connection file
+[2025-11-10 06:17:40] Database connection file included successfully
+[2025-11-10 06:17:40] PDO connection exists
+[2025-11-10 06:17:40] Action requested | Data: "add"
+[2025-11-10 06:17:40] CREATE: Starting createAnimal function
+[2025-11-10 06:17:40] CREATE: Raw input | Data: ""
+[2025-11-10 06:17:40] CREATE: Decoded data
+[2025-11-10 06:17:40] CREATE ERROR | Data: "Invalid JSON data"
+[2025-11-10 06:17:40] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:21:18] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:21:18] Request Method | Data: "GET"
+[2025-11-10 06:21:18] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 06:21:18] GET Parameters | Data: {"action":"list"}
+[2025-11-10 06:21:18] Attempting to include database connection file
+[2025-11-10 06:21:18] Database connection file included successfully
+[2025-11-10 06:21:18] PDO connection exists
+[2025-11-10 06:21:18] Action requested | Data: "list"
+[2025-11-10 06:21:18] LIST: Starting listAnimals function
+[2025-11-10 06:21:18] LIST: Records fetched | Data: 0
+[2025-11-10 06:21:18] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:21:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:21:34] Request Method | Data: "POST"
+[2025-11-10 06:21:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 06:21:34] GET Parameters | Data: {"action":"add"}
+[2025-11-10 06:21:34] Attempting to include database connection file
+[2025-11-10 06:21:34] Database connection file included successfully
+[2025-11-10 06:21:34] PDO connection exists
+[2025-11-10 06:21:34] Action requested | Data: "add"
+[2025-11-10 06:21:34] CREATE: Starting createAnimal function
+[2025-11-10 06:21:34] CREATE: Data received | Data: {"year":"2025","month":"11","animal_type":"lion","quantity":"2","photo":"animal_6911765eb08f0_1762752094.jpg"}
+[2025-11-10 06:21:34] CREATE: New record ID | Data: "41"
+[2025-11-10 06:21:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:21:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:21:34] Request Method | Data: "GET"
+[2025-11-10 06:21:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 06:21:34] GET Parameters | Data: {"action":"list"}
+[2025-11-10 06:21:34] Attempting to include database connection file
+[2025-11-10 06:21:34] Database connection file included successfully
+[2025-11-10 06:21:34] PDO connection exists
+[2025-11-10 06:21:34] Action requested | Data: "list"
+[2025-11-10 06:21:34] LIST: Starting listAnimals function
+[2025-11-10 06:21:34] LIST: Records fetched | Data: 1
+[2025-11-10 06:21:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 06:58:20] ========== ANIMALS API CALLED ==========
+[2025-11-10 06:58:20] Request Method | Data: "GET"
+[2025-11-10 06:58:20] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 06:58:20] GET Parameters | Data: {"action":"list"}
+[2025-11-10 06:58:20] Attempting to include database connection file
+[2025-11-10 06:58:20] Database connection file included successfully
+[2025-11-10 06:58:20] PDO connection exists
+[2025-11-10 06:58:20] Action requested | Data: "list"
+[2025-11-10 06:58:20] LIST: Starting listAnimals function
+[2025-11-10 06:58:20] LIST: Records fetched | Data: 1
+[2025-11-10 06:58:20] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:28:29] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:28:29] Request Method | Data: "GET"
+[2025-11-10 07:28:29] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:28:29] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:28:29] Attempting to include database connection file
+[2025-11-10 07:28:29] Database connection file included successfully
+[2025-11-10 07:28:29] PDO connection exists
+[2025-11-10 07:28:29] Action requested | Data: "list"
+[2025-11-10 07:28:29] LIST: Starting listAnimals function
+[2025-11-10 07:28:29] LIST: Records fetched | Data: 1
+[2025-11-10 07:28:29] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:31:50] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:31:50] Request Method | Data: "GET"
+[2025-11-10 07:31:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:31:50] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:31:50] Attempting to include database connection file
+[2025-11-10 07:31:50] Database connection file included successfully
+[2025-11-10 07:31:50] PDO connection exists
+[2025-11-10 07:31:50] Action requested | Data: "list"
+[2025-11-10 07:31:50] LIST: Starting listAnimals function
+[2025-11-10 07:31:50] LIST: Records fetched | Data: 1
+[2025-11-10 07:31:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:33:25] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:33:25] Request Method | Data: "POST"
+[2025-11-10 07:33:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:33:25] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:33:25] Attempting to include database connection file
+[2025-11-10 07:33:25] Database connection file included successfully
+[2025-11-10 07:33:25] PDO connection exists
+[2025-11-10 07:33:25] Action requested | Data: "add"
+[2025-11-10 07:33:25] CREATE: Starting createAnimal function
+[2025-11-10 07:33:25] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Layer","quantity":"77","photo":"animal_6911873562326_1762756405.jpg"}
+[2025-11-10 07:33:25] CREATE: New record ID | Data: "42"
+[2025-11-10 07:33:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:33:25] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:33:25] Request Method | Data: "GET"
+[2025-11-10 07:33:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:33:25] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:33:25] Attempting to include database connection file
+[2025-11-10 07:33:25] Database connection file included successfully
+[2025-11-10 07:33:25] PDO connection exists
+[2025-11-10 07:33:25] Action requested | Data: "list"
+[2025-11-10 07:33:25] LIST: Starting listAnimals function
+[2025-11-10 07:33:25] LIST: Records fetched | Data: 2
+[2025-11-10 07:33:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:34:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:34:34] Request Method | Data: "DELETE"
+[2025-11-10 07:34:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=delete&id=41"
+[2025-11-10 07:34:34] GET Parameters | Data: {"action":"delete","id":"41"}
+[2025-11-10 07:34:34] Attempting to include database connection file
+[2025-11-10 07:34:34] Database connection file included successfully
+[2025-11-10 07:34:34] PDO connection exists
+[2025-11-10 07:34:34] Action requested | Data: "delete"
+[2025-11-10 07:34:34] DELETE: Starting deleteAnimal function
+[2025-11-10 07:34:34] DELETE: ID parameter | Data: "41"
+[2025-11-10 07:34:34] DELETE: Rows affected | Data: 1
+[2025-11-10 07:34:34] Deleted old photo | Data: "animal_6911765eb08f0_1762752094.jpg"
+[2025-11-10 07:34:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:34:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:34:34] Request Method | Data: "GET"
+[2025-11-10 07:34:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:34:34] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:34:34] Attempting to include database connection file
+[2025-11-10 07:34:34] Database connection file included successfully
+[2025-11-10 07:34:34] PDO connection exists
+[2025-11-10 07:34:34] Action requested | Data: "list"
+[2025-11-10 07:34:34] LIST: Starting listAnimals function
+[2025-11-10 07:34:34] LIST: Records fetched | Data: 1
+[2025-11-10 07:34:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:39:52] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:39:52] Request Method | Data: "GET"
+[2025-11-10 07:39:52] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:39:52] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:39:52] Attempting to include database connection file
+[2025-11-10 07:39:52] Database connection file included successfully
+[2025-11-10 07:39:52] PDO connection exists
+[2025-11-10 07:39:52] Action requested | Data: "list"
+[2025-11-10 07:39:52] LIST: Starting listAnimals function
+[2025-11-10 07:39:52] LIST: Records fetched | Data: 1
+[2025-11-10 07:39:52] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:40:56] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:40:56] Request Method | Data: "POST"
+[2025-11-10 07:40:56] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:40:56] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:40:56] Attempting to include database connection file
+[2025-11-10 07:40:56] Database connection file included successfully
+[2025-11-10 07:40:56] PDO connection exists
+[2025-11-10 07:40:56] Action requested | Data: "add"
+[2025-11-10 07:40:56] CREATE: Starting createAnimal function
+[2025-11-10 07:40:56] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Duck","quantity":"68","photo":"animal_691188f8275a2_1762756856.jpg"}
+[2025-11-10 07:40:56] CREATE: New record ID | Data: "43"
+[2025-11-10 07:40:56] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:40:56] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:40:56] Request Method | Data: "GET"
+[2025-11-10 07:40:56] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:40:56] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:40:56] Attempting to include database connection file
+[2025-11-10 07:40:56] Database connection file included successfully
+[2025-11-10 07:40:56] PDO connection exists
+[2025-11-10 07:40:56] Action requested | Data: "list"
+[2025-11-10 07:40:56] LIST: Starting listAnimals function
+[2025-11-10 07:40:56] LIST: Records fetched | Data: 2
+[2025-11-10 07:40:56] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:40:57] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:40:57] Request Method | Data: "GET"
+[2025-11-10 07:40:57] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:40:57] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:40:57] Attempting to include database connection file
+[2025-11-10 07:40:57] Database connection file included successfully
+[2025-11-10 07:40:57] PDO connection exists
+[2025-11-10 07:40:57] Action requested | Data: "list"
+[2025-11-10 07:40:57] LIST: Starting listAnimals function
+[2025-11-10 07:40:57] LIST: Records fetched | Data: 2
+[2025-11-10 07:40:57] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:41:57] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:41:57] Request Method | Data: "POST"
+[2025-11-10 07:41:57] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:41:57] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:41:57] Attempting to include database connection file
+[2025-11-10 07:41:57] Database connection file included successfully
+[2025-11-10 07:41:57] PDO connection exists
+[2025-11-10 07:41:57] Action requested | Data: "add"
+[2025-11-10 07:41:57] CREATE: Starting createAnimal function
+[2025-11-10 07:41:57] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Chicken","quantity":"31","photo":"animal_691189358398b_1762756917.jpg"}
+[2025-11-10 07:41:57] CREATE: New record ID | Data: "44"
+[2025-11-10 07:41:57] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:41:57] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:41:57] Request Method | Data: "GET"
+[2025-11-10 07:41:57] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:41:57] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:41:57] Attempting to include database connection file
+[2025-11-10 07:41:57] Database connection file included successfully
+[2025-11-10 07:41:57] PDO connection exists
+[2025-11-10 07:41:57] Action requested | Data: "list"
+[2025-11-10 07:41:57] LIST: Starting listAnimals function
+[2025-11-10 07:41:57] LIST: Records fetched | Data: 3
+[2025-11-10 07:41:57] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:41:59] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:41:59] Request Method | Data: "GET"
+[2025-11-10 07:41:59] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:41:59] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:41:59] Attempting to include database connection file
+[2025-11-10 07:41:59] Database connection file included successfully
+[2025-11-10 07:41:59] PDO connection exists
+[2025-11-10 07:41:59] Action requested | Data: "list"
+[2025-11-10 07:41:59] LIST: Starting listAnimals function
+[2025-11-10 07:41:59] LIST: Records fetched | Data: 3
+[2025-11-10 07:41:59] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:46:31] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:46:31] Request Method | Data: "POST"
+[2025-11-10 07:46:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:46:31] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:46:31] Attempting to include database connection file
+[2025-11-10 07:46:31] Database connection file included successfully
+[2025-11-10 07:46:31] PDO connection exists
+[2025-11-10 07:46:31] Action requested | Data: "add"
+[2025-11-10 07:46:31] CREATE: Starting createAnimal function
+[2025-11-10 07:46:31] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Turkey","quantity":"12","photo":"animal_69118a4735ff5_1762757191.jpg"}
+[2025-11-10 07:46:31] CREATE: New record ID | Data: "45"
+[2025-11-10 07:46:31] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:46:31] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:46:31] Request Method | Data: "GET"
+[2025-11-10 07:46:31] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:46:31] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:46:31] Attempting to include database connection file
+[2025-11-10 07:46:31] Database connection file included successfully
+[2025-11-10 07:46:31] PDO connection exists
+[2025-11-10 07:46:31] Action requested | Data: "list"
+[2025-11-10 07:46:31] LIST: Starting listAnimals function
+[2025-11-10 07:46:31] LIST: Records fetched | Data: 4
+[2025-11-10 07:46:31] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:46:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:46:34] Request Method | Data: "GET"
+[2025-11-10 07:46:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:46:34] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:46:34] Attempting to include database connection file
+[2025-11-10 07:46:34] Database connection file included successfully
+[2025-11-10 07:46:34] PDO connection exists
+[2025-11-10 07:46:34] Action requested | Data: "list"
+[2025-11-10 07:46:34] LIST: Starting listAnimals function
+[2025-11-10 07:46:34] LIST: Records fetched | Data: 4
+[2025-11-10 07:46:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:48:00] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:48:00] Request Method | Data: "POST"
+[2025-11-10 07:48:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:48:00] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:48:00] Attempting to include database connection file
+[2025-11-10 07:48:00] Database connection file included successfully
+[2025-11-10 07:48:00] PDO connection exists
+[2025-11-10 07:48:00] Action requested | Data: "add"
+[2025-11-10 07:48:00] CREATE: Starting createAnimal function
+[2025-11-10 07:48:00] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Pigs","quantity":"12","photo":"animal_69118aa09e885_1762757280.jpg"}
+[2025-11-10 07:48:00] CREATE: New record ID | Data: "46"
+[2025-11-10 07:48:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:48:00] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:48:00] Request Method | Data: "GET"
+[2025-11-10 07:48:00] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:48:00] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:48:00] Attempting to include database connection file
+[2025-11-10 07:48:00] Database connection file included successfully
+[2025-11-10 07:48:00] PDO connection exists
+[2025-11-10 07:48:00] Action requested | Data: "list"
+[2025-11-10 07:48:00] LIST: Starting listAnimals function
+[2025-11-10 07:48:00] LIST: Records fetched | Data: 5
+[2025-11-10 07:48:00] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:48:03] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:48:03] Request Method | Data: "GET"
+[2025-11-10 07:48:03] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:48:03] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:48:03] Attempting to include database connection file
+[2025-11-10 07:48:03] Database connection file included successfully
+[2025-11-10 07:48:03] PDO connection exists
+[2025-11-10 07:48:03] Action requested | Data: "list"
+[2025-11-10 07:48:03] LIST: Starting listAnimals function
+[2025-11-10 07:48:03] LIST: Records fetched | Data: 5
+[2025-11-10 07:48:03] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:50:45] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:50:45] Request Method | Data: "POST"
+[2025-11-10 07:50:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:50:45] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:50:45] Attempting to include database connection file
+[2025-11-10 07:50:45] Database connection file included successfully
+[2025-11-10 07:50:45] PDO connection exists
+[2025-11-10 07:50:45] Action requested | Data: "add"
+[2025-11-10 07:50:45] CREATE: Starting createAnimal function
+[2025-11-10 07:50:45] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Cattle","quantity":"9","photo":"animal_69118b45e79c1_1762757445.jpg"}
+[2025-11-10 07:50:45] CREATE: New record ID | Data: "47"
+[2025-11-10 07:50:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:50:45] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:50:45] Request Method | Data: "GET"
+[2025-11-10 07:50:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:50:45] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:50:45] Attempting to include database connection file
+[2025-11-10 07:50:45] Database connection file included successfully
+[2025-11-10 07:50:45] PDO connection exists
+[2025-11-10 07:50:45] Action requested | Data: "list"
+[2025-11-10 07:50:45] LIST: Starting listAnimals function
+[2025-11-10 07:50:45] LIST: Records fetched | Data: 6
+[2025-11-10 07:50:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:50:53] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:50:53] Request Method | Data: "GET"
+[2025-11-10 07:50:53] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:50:53] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:50:53] Attempting to include database connection file
+[2025-11-10 07:50:53] Database connection file included successfully
+[2025-11-10 07:50:53] PDO connection exists
+[2025-11-10 07:50:53] Action requested | Data: "list"
+[2025-11-10 07:50:53] LIST: Starting listAnimals function
+[2025-11-10 07:50:53] LIST: Records fetched | Data: 6
+[2025-11-10 07:50:53] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:56:48] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:56:48] Request Method | Data: "POST"
+[2025-11-10 07:56:48] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:56:48] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:56:48] Attempting to include database connection file
+[2025-11-10 07:56:48] Database connection file included successfully
+[2025-11-10 07:56:48] PDO connection exists
+[2025-11-10 07:56:48] Action requested | Data: "add"
+[2025-11-10 07:56:48] CREATE: Starting createAnimal function
+[2025-11-10 07:56:48] CREATE: Data received | Data: {"year":"2025","month":"11","animal_type":"Cornero","quantity":"9","photo":"animal_69118cb061188_1762757808.jpg"}
+[2025-11-10 07:56:48] CREATE: New record ID | Data: "48"
+[2025-11-10 07:56:48] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:56:48] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:56:48] Request Method | Data: "GET"
+[2025-11-10 07:56:48] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:56:48] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:56:48] Attempting to include database connection file
+[2025-11-10 07:56:48] Database connection file included successfully
+[2025-11-10 07:56:48] PDO connection exists
+[2025-11-10 07:56:48] Action requested | Data: "list"
+[2025-11-10 07:56:48] LIST: Starting listAnimals function
+[2025-11-10 07:56:48] LIST: Records fetched | Data: 7
+[2025-11-10 07:56:48] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:56:56] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:56:56] Request Method | Data: "POST"
+[2025-11-10 07:56:56] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=update"
+[2025-11-10 07:56:56] GET Parameters | Data: {"action":"update"}
+[2025-11-10 07:56:56] Attempting to include database connection file
+[2025-11-10 07:56:56] Database connection file included successfully
+[2025-11-10 07:56:56] PDO connection exists
+[2025-11-10 07:56:56] Action requested | Data: "update"
+[2025-11-10 07:56:56] UPDATE: Starting updateAnimal function
+[2025-11-10 07:56:56] UPDATE: Data received | Data: {"id":"48","year":"2025","month":"9","animal_type":"Cornero","quantity":"9","new_photo":"animal_69118cb87bc19_1762757816.jpg","existing_photo":"animal_69118cb061188_1762757808.jpg"}
+[2025-11-10 07:56:56] Deleted old photo | Data: "animal_69118cb061188_1762757808.jpg"
+[2025-11-10 07:56:56] UPDATE: Rows affected | Data: 1
+[2025-11-10 07:56:56] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:56:56] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:56:56] Request Method | Data: "GET"
+[2025-11-10 07:56:56] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:56:56] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:56:56] Attempting to include database connection file
+[2025-11-10 07:56:56] Database connection file included successfully
+[2025-11-10 07:56:56] PDO connection exists
+[2025-11-10 07:56:56] Action requested | Data: "list"
+[2025-11-10 07:56:56] LIST: Starting listAnimals function
+[2025-11-10 07:56:56] LIST: Records fetched | Data: 7
+[2025-11-10 07:56:56] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:57:12] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:57:12] Request Method | Data: "GET"
+[2025-11-10 07:57:12] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:57:12] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:57:12] Attempting to include database connection file
+[2025-11-10 07:57:12] Database connection file included successfully
+[2025-11-10 07:57:12] PDO connection exists
+[2025-11-10 07:57:12] Action requested | Data: "list"
+[2025-11-10 07:57:12] LIST: Starting listAnimals function
+[2025-11-10 07:57:12] LIST: Records fetched | Data: 7
+[2025-11-10 07:57:12] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:58:37] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:58:37] Request Method | Data: "POST"
+[2025-11-10 07:58:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 07:58:37] GET Parameters | Data: {"action":"add"}
+[2025-11-10 07:58:37] Attempting to include database connection file
+[2025-11-10 07:58:37] Database connection file included successfully
+[2025-11-10 07:58:37] PDO connection exists
+[2025-11-10 07:58:37] Action requested | Data: "add"
+[2025-11-10 07:58:37] CREATE: Starting createAnimal function
+[2025-11-10 07:58:37] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Goat","quantity":"9","photo":"animal_69118d1dae274_1762757917.jpg"}
+[2025-11-10 07:58:37] CREATE: New record ID | Data: "49"
+[2025-11-10 07:58:37] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:58:37] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:58:37] Request Method | Data: "GET"
+[2025-11-10 07:58:37] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:58:37] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:58:37] Attempting to include database connection file
+[2025-11-10 07:58:37] Database connection file included successfully
+[2025-11-10 07:58:37] PDO connection exists
+[2025-11-10 07:58:37] Action requested | Data: "list"
+[2025-11-10 07:58:37] LIST: Starting listAnimals function
+[2025-11-10 07:58:37] LIST: Records fetched | Data: 8
+[2025-11-10 07:58:37] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 07:58:39] ========== ANIMALS API CALLED ==========
+[2025-11-10 07:58:39] Request Method | Data: "GET"
+[2025-11-10 07:58:39] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 07:58:39] GET Parameters | Data: {"action":"list"}
+[2025-11-10 07:58:39] Attempting to include database connection file
+[2025-11-10 07:58:39] Database connection file included successfully
+[2025-11-10 07:58:39] PDO connection exists
+[2025-11-10 07:58:39] Action requested | Data: "list"
+[2025-11-10 07:58:39] LIST: Starting listAnimals function
+[2025-11-10 07:58:39] LIST: Records fetched | Data: 8
+[2025-11-10 07:58:39] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 08:01:15] ========== ANIMALS API CALLED ==========
+[2025-11-10 08:01:15] Request Method | Data: "POST"
+[2025-11-10 08:01:15] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 08:01:15] GET Parameters | Data: {"action":"add"}
+[2025-11-10 08:01:15] Attempting to include database connection file
+[2025-11-10 08:01:15] Database connection file included successfully
+[2025-11-10 08:01:15] PDO connection exists
+[2025-11-10 08:01:15] Action requested | Data: "add"
+[2025-11-10 08:01:15] CREATE: Starting createAnimal function
+[2025-11-10 08:01:15] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Horse","quantity":"3","photo":"animal_69118dbbcb0c8_1762758075.jpg"}
+[2025-11-10 08:01:15] CREATE: New record ID | Data: "50"
+[2025-11-10 08:01:15] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 08:01:15] ========== ANIMALS API CALLED ==========
+[2025-11-10 08:01:15] Request Method | Data: "GET"
+[2025-11-10 08:01:15] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 08:01:15] GET Parameters | Data: {"action":"list"}
+[2025-11-10 08:01:15] Attempting to include database connection file
+[2025-11-10 08:01:15] Database connection file included successfully
+[2025-11-10 08:01:15] PDO connection exists
+[2025-11-10 08:01:15] Action requested | Data: "list"
+[2025-11-10 08:01:15] LIST: Starting listAnimals function
+[2025-11-10 08:01:15] LIST: Records fetched | Data: 9
+[2025-11-10 08:01:15] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 08:02:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 08:02:34] Request Method | Data: "POST"
+[2025-11-10 08:02:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-10 08:02:34] GET Parameters | Data: {"action":"add"}
+[2025-11-10 08:02:34] Attempting to include database connection file
+[2025-11-10 08:02:34] Database connection file included successfully
+[2025-11-10 08:02:34] PDO connection exists
+[2025-11-10 08:02:34] Action requested | Data: "add"
+[2025-11-10 08:02:34] CREATE: Starting createAnimal function
+[2025-11-10 08:02:34] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"Goose","quantity":"2","photo":null}
+[2025-11-10 08:02:34] CREATE: New record ID | Data: "51"
+[2025-11-10 08:02:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-10 08:02:34] ========== ANIMALS API CALLED ==========
+[2025-11-10 08:02:34] Request Method | Data: "GET"
+[2025-11-10 08:02:34] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-10 08:02:34] GET Parameters | Data: {"action":"list"}
+[2025-11-10 08:02:34] Attempting to include database connection file
+[2025-11-10 08:02:34] Database connection file included successfully
+[2025-11-10 08:02:34] PDO connection exists
+[2025-11-10 08:02:34] Action requested | Data: "list"
+[2025-11-10 08:02:34] LIST: Starting listAnimals function
+[2025-11-10 08:02:34] LIST: Records fetched | Data: 10
+[2025-11-10 08:02:34] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:40:50] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:40:50] Request Method | Data: "GET"
+[2025-11-11 02:40:50] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:40:50] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:40:50] Attempting to include database connection file
+[2025-11-11 02:40:50] Database connection file included successfully
+[2025-11-11 02:40:50] PDO connection exists
+[2025-11-11 02:40:50] Action requested | Data: "list"
+[2025-11-11 02:40:50] LIST: Starting listAnimals function
+[2025-11-11 02:40:50] LIST: Records fetched | Data: 10
+[2025-11-11 02:40:50] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:51:15] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:51:15] Request Method | Data: "GET"
+[2025-11-11 02:51:15] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:51:15] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:51:15] Attempting to include database connection file
+[2025-11-11 02:51:15] Database connection file included successfully
+[2025-11-11 02:51:15] PDO connection exists
+[2025-11-11 02:51:15] Action requested | Data: "list"
+[2025-11-11 02:51:15] LIST: Starting listAnimals function
+[2025-11-11 02:51:15] LIST: Records fetched | Data: 10
+[2025-11-11 02:51:15] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:52:44] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:52:44] Request Method | Data: "GET"
+[2025-11-11 02:52:44] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:52:44] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:52:44] Attempting to include database connection file
+[2025-11-11 02:52:44] Database connection file included successfully
+[2025-11-11 02:52:44] PDO connection exists
+[2025-11-11 02:52:44] Action requested | Data: "list"
+[2025-11-11 02:52:44] LIST: Starting listAnimals function
+[2025-11-11 02:52:44] LIST: Records fetched | Data: 10
+[2025-11-11 02:52:44] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:53:35] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:53:35] Request Method | Data: "POST"
+[2025-11-11 02:53:35] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=update"
+[2025-11-11 02:53:35] GET Parameters | Data: {"action":"update"}
+[2025-11-11 02:53:35] Attempting to include database connection file
+[2025-11-11 02:53:35] Database connection file included successfully
+[2025-11-11 02:53:35] PDO connection exists
+[2025-11-11 02:53:35] Action requested | Data: "update"
+[2025-11-11 02:53:35] UPDATE: Starting updateAnimal function
+[2025-11-11 02:53:35] UPDATE: Data received | Data: {"id":"51","year":"2025","month":"9","animal_type":"Goose","quantity":"2","new_photo":"animal_6912971f33687_1762826015.jpg","existing_photo":null}
+[2025-11-11 02:53:35] UPDATE: Rows affected | Data: 1
+[2025-11-11 02:53:35] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:53:35] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:53:35] Request Method | Data: "GET"
+[2025-11-11 02:53:35] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:53:35] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:53:35] Attempting to include database connection file
+[2025-11-11 02:53:35] Database connection file included successfully
+[2025-11-11 02:53:35] PDO connection exists
+[2025-11-11 02:53:35] Action requested | Data: "list"
+[2025-11-11 02:53:35] LIST: Starting listAnimals function
+[2025-11-11 02:53:35] LIST: Records fetched | Data: 10
+[2025-11-11 02:53:35] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:57:47] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:57:47] Request Method | Data: "POST"
+[2025-11-11 02:57:47] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=add"
+[2025-11-11 02:57:47] GET Parameters | Data: {"action":"add"}
+[2025-11-11 02:57:47] Attempting to include database connection file
+[2025-11-11 02:57:48] Database connection file included successfully
+[2025-11-11 02:57:48] PDO connection exists
+[2025-11-11 02:57:48] Action requested | Data: "add"
+[2025-11-11 02:57:48] CREATE: Starting createAnimal function
+[2025-11-11 02:57:48] CREATE: Data received | Data: {"year":"2025","month":"9","animal_type":"cow","quantity":"2","photo":"animal_6912981c05844_1762826268.webp"}
+[2025-11-11 02:57:48] CREATE: New record ID | Data: "52"
+[2025-11-11 02:57:48] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:57:48] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:57:48] Request Method | Data: "GET"
+[2025-11-11 02:57:48] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:57:48] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:57:48] Attempting to include database connection file
+[2025-11-11 02:57:48] Database connection file included successfully
+[2025-11-11 02:57:48] PDO connection exists
+[2025-11-11 02:57:48] Action requested | Data: "list"
+[2025-11-11 02:57:48] LIST: Starting listAnimals function
+[2025-11-11 02:57:48] LIST: Records fetched | Data: 11
+[2025-11-11 02:57:48] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:58:27] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:58:27] Request Method | Data: "GET"
+[2025-11-11 02:58:27] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:58:27] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:58:27] Attempting to include database connection file
+[2025-11-11 02:58:27] Database connection file included successfully
+[2025-11-11 02:58:27] PDO connection exists
+[2025-11-11 02:58:27] Action requested | Data: "list"
+[2025-11-11 02:58:27] LIST: Starting listAnimals function
+[2025-11-11 02:58:27] LIST: Records fetched | Data: 11
+[2025-11-11 02:58:27] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:58:45] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:58:45] Request Method | Data: "POST"
+[2025-11-11 02:58:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=update"
+[2025-11-11 02:58:45] GET Parameters | Data: {"action":"update"}
+[2025-11-11 02:58:45] Attempting to include database connection file
+[2025-11-11 02:58:45] Database connection file included successfully
+[2025-11-11 02:58:45] PDO connection exists
+[2025-11-11 02:58:45] Action requested | Data: "update"
+[2025-11-11 02:58:45] UPDATE: Starting updateAnimal function
+[2025-11-11 02:58:45] UPDATE: Data received | Data: {"id":"52","year":"2025","month":"9","animal_type":"Carabao","quantity":"2","new_photo":null,"existing_photo":null}
+[2025-11-11 02:58:45] UPDATE: Rows affected | Data: 1
+[2025-11-11 02:58:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 02:58:45] ========== ANIMALS API CALLED ==========
+[2025-11-11 02:58:45] Request Method | Data: "GET"
+[2025-11-11 02:58:45] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 02:58:45] GET Parameters | Data: {"action":"list"}
+[2025-11-11 02:58:45] Attempting to include database connection file
+[2025-11-11 02:58:45] Database connection file included successfully
+[2025-11-11 02:58:45] PDO connection exists
+[2025-11-11 02:58:45] Action requested | Data: "list"
+[2025-11-11 02:58:45] LIST: Starting listAnimals function
+[2025-11-11 02:58:45] LIST: Records fetched | Data: 11
+[2025-11-11 02:58:45] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:02:25] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:02:25] Request Method | Data: "POST"
+[2025-11-11 03:02:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=update"
+[2025-11-11 03:02:25] GET Parameters | Data: {"action":"update"}
+[2025-11-11 03:02:25] Attempting to include database connection file
+[2025-11-11 03:02:25] Database connection file included successfully
+[2025-11-11 03:02:25] PDO connection exists
+[2025-11-11 03:02:25] Action requested | Data: "update"
+[2025-11-11 03:02:25] UPDATE: Starting updateAnimal function
+[2025-11-11 03:02:25] UPDATE: Data received | Data: {"id":"52","year":"2025","month":"9","animal_type":"Carabao","quantity":"2","new_photo":null,"existing_photo":null}
+[2025-11-11 03:02:25] UPDATE: Rows affected | Data: 0
+[2025-11-11 03:02:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:02:25] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:02:25] Request Method | Data: "GET"
+[2025-11-11 03:02:25] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 03:02:25] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:02:25] Attempting to include database connection file
+[2025-11-11 03:02:25] Database connection file included successfully
+[2025-11-11 03:02:25] PDO connection exists
+[2025-11-11 03:02:25] Action requested | Data: "list"
+[2025-11-11 03:02:25] LIST: Starting listAnimals function
+[2025-11-11 03:02:25] LIST: Records fetched | Data: 11
+[2025-11-11 03:02:25] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:04:19] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:04:19] Request Method | Data: "POST"
+[2025-11-11 03:04:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=update"
+[2025-11-11 03:04:19] GET Parameters | Data: {"action":"update"}
+[2025-11-11 03:04:19] Attempting to include database connection file
+[2025-11-11 03:04:19] Database connection file included successfully
+[2025-11-11 03:04:19] PDO connection exists
+[2025-11-11 03:04:19] Action requested | Data: "update"
+[2025-11-11 03:04:19] UPDATE: Starting updateAnimal function
+[2025-11-11 03:04:19] UPDATE: Data received | Data: {"id":"52","year":"2025","month":"9","animal_type":"Carabao","quantity":"2","new_photo":"animal_691299a39fa13_1762826659.jpg","existing_photo":null}
+[2025-11-11 03:04:19] UPDATE: Rows affected | Data: 1
+[2025-11-11 03:04:19] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:04:19] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:04:19] Request Method | Data: "GET"
+[2025-11-11 03:04:19] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 03:04:19] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:04:19] Attempting to include database connection file
+[2025-11-11 03:04:19] Database connection file included successfully
+[2025-11-11 03:04:19] PDO connection exists
+[2025-11-11 03:04:19] Action requested | Data: "list"
+[2025-11-11 03:04:19] LIST: Starting listAnimals function
+[2025-11-11 03:04:19] LIST: Records fetched | Data: 11
+[2025-11-11 03:04:19] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:04:32] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:04:32] Request Method | Data: "GET"
+[2025-11-11 03:04:32] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 03:04:32] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:04:32] Attempting to include database connection file
+[2025-11-11 03:04:33] Database connection file included successfully
+[2025-11-11 03:04:33] PDO connection exists
+[2025-11-11 03:04:33] Action requested | Data: "list"
+[2025-11-11 03:04:33] LIST: Starting listAnimals function
+[2025-11-11 03:04:33] LIST: Records fetched | Data: 11
+[2025-11-11 03:04:33] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:08:09] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:08:09] Request Method | Data: "GET"
+[2025-11-11 03:08:09] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 03:08:09] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:08:09] Attempting to include database connection file
+[2025-11-11 03:08:09] Database connection file included successfully
+[2025-11-11 03:08:09] PDO connection exists
+[2025-11-11 03:08:09] Action requested | Data: "list"
+[2025-11-11 03:08:09] LIST: Starting listAnimals function
+[2025-11-11 03:08:09] LIST: Records fetched | Data: 11
+[2025-11-11 03:08:09] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 03:08:13] ========== ANIMALS API CALLED ==========
+[2025-11-11 03:08:13] Request Method | Data: "GET"
+[2025-11-11 03:08:13] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 03:08:13] GET Parameters | Data: {"action":"list"}
+[2025-11-11 03:08:13] Attempting to include database connection file
+[2025-11-11 03:08:13] Database connection file included successfully
+[2025-11-11 03:08:13] PDO connection exists
+[2025-11-11 03:08:13] Action requested | Data: "list"
+[2025-11-11 03:08:13] LIST: Starting listAnimals function
+[2025-11-11 03:08:13] LIST: Records fetched | Data: 11
+[2025-11-11 03:08:13] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 04:42:47] ========== ANIMALS API CALLED ==========
+[2025-11-11 04:42:47] Request Method | Data: "GET"
+[2025-11-11 04:42:47] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 04:42:47] GET Parameters | Data: {"action":"list"}
+[2025-11-11 04:42:47] Attempting to include database connection file
+[2025-11-11 04:42:47] Database connection file included successfully
+[2025-11-11 04:42:47] PDO connection exists
+[2025-11-11 04:42:47] Action requested | Data: "list"
+[2025-11-11 04:42:47] LIST: Starting listAnimals function
+[2025-11-11 04:42:47] LIST: Records fetched | Data: 11
+[2025-11-11 04:42:47] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-11 04:43:01] ========== ANIMALS API CALLED ==========
+[2025-11-11 04:43:01] Request Method | Data: "GET"
+[2025-11-11 04:43:01] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-11 04:43:01] GET Parameters | Data: {"action":"list"}
+[2025-11-11 04:43:01] Attempting to include database connection file
+[2025-11-11 04:43:01] Database connection file included successfully
+[2025-11-11 04:43:01] PDO connection exists
+[2025-11-11 04:43:01] Action requested | Data: "list"
+[2025-11-11 04:43:01] LIST: Starting listAnimals function
+[2025-11-11 04:43:01] LIST: Records fetched | Data: 11
+[2025-11-11 04:43:01] ========== ANIMALS API COMPLETED ==========
+
+[2025-11-27 01:34:23] ========== ANIMALS API CALLED ==========
+[2025-11-27 01:34:23] Request Method | Data: "GET"
+[2025-11-27 01:34:23] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2025-11-27 01:34:23] GET Parameters | Data: {"action":"list"}
+[2025-11-27 01:34:23] Attempting to include database connection file
+[2025-11-27 01:34:23] Database connection file included successfully
+[2025-11-27 01:34:23] PDO connection exists
+[2025-11-27 01:34:23] Action requested | Data: "list"
+[2025-11-27 01:34:23] LIST: Starting listAnimals function
+[2025-11-27 01:34:23] LIST: Records fetched | Data: 11
+[2025-11-27 01:34:23] ========== ANIMALS API COMPLETED ==========
+
+[2026-01-05 07:04:09] ========== ANIMALS API CALLED ==========
+[2026-01-05 07:04:09] Request Method | Data: "GET"
+[2026-01-05 07:04:09] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-01-05 07:04:09] GET Parameters | Data: {"action":"list"}
+[2026-01-05 07:04:09] Attempting to include database connection file
+[2026-01-05 07:04:09] Database connection file included successfully
+[2026-01-05 07:04:09] PDO connection exists
+[2026-01-05 07:04:09] Action requested | Data: "list"
+[2026-01-05 07:04:09] LIST: Starting listAnimals function
+[2026-01-05 07:04:09] LIST: Records fetched | Data: 11
+[2026-01-05 07:04:09] ========== ANIMALS API COMPLETED ==========
+
+[2026-01-22 01:27:40] ========== ANIMALS API CALLED ==========
+[2026-01-22 01:27:40] Request Method | Data: "GET"
+[2026-01-22 01:27:40] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-01-22 01:27:40] GET Parameters | Data: {"action":"list"}
+[2026-01-22 01:27:40] Attempting to include database connection file
+[2026-01-22 01:27:40] Database connection file included successfully
+[2026-01-22 01:27:40] PDO connection exists
+[2026-01-22 01:27:40] Action requested | Data: "list"
+[2026-01-22 01:27:40] LIST: Starting listAnimals function
+[2026-01-22 01:27:40] LIST: Records fetched | Data: 11
+[2026-01-22 01:27:40] ========== ANIMALS API COMPLETED ==========
+
+[2026-01-22 01:28:07] ========== ANIMALS API CALLED ==========
+[2026-01-22 01:28:07] Request Method | Data: "GET"
+[2026-01-22 01:28:07] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-01-22 01:28:07] GET Parameters | Data: {"action":"list"}
+[2026-01-22 01:28:07] Attempting to include database connection file
+[2026-01-22 01:28:07] Database connection file included successfully
+[2026-01-22 01:28:07] PDO connection exists
+[2026-01-22 01:28:07] Action requested | Data: "list"
+[2026-01-22 01:28:07] LIST: Starting listAnimals function
+[2026-01-22 01:28:07] LIST: Records fetched | Data: 11
+[2026-01-22 01:28:07] ========== ANIMALS API COMPLETED ==========
+
+[2026-01-22 01:28:26] ========== ANIMALS API CALLED ==========
+[2026-01-22 01:28:26] Request Method | Data: "GET"
+[2026-01-22 01:28:26] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-01-22 01:28:26] GET Parameters | Data: {"action":"list"}
+[2026-01-22 01:28:26] Attempting to include database connection file
+[2026-01-22 01:28:26] Database connection file included successfully
+[2026-01-22 01:28:26] PDO connection exists
+[2026-01-22 01:28:26] Action requested | Data: "list"
+[2026-01-22 01:28:26] LIST: Starting listAnimals function
+[2026-01-22 01:28:26] LIST: Records fetched | Data: 11
+[2026-01-22 01:28:26] ========== ANIMALS API COMPLETED ==========
+
+[2026-02-02 06:21:27] ========== ANIMALS API CALLED ==========
+[2026-02-02 06:21:27] Request Method | Data: "GET"
+[2026-02-02 06:21:27] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-02-02 06:21:27] GET Parameters | Data: {"action":"list"}
+[2026-02-02 06:21:27] Attempting to include database connection file
+[2026-02-02 06:21:27] Database connection file included successfully
+[2026-02-02 06:21:27] PDO connection exists
+[2026-02-02 06:21:27] Action requested | Data: "list"
+[2026-02-02 06:21:27] LIST: Starting listAnimals function
+[2026-02-02 06:21:27] LIST: Records fetched | Data: 11
+[2026-02-02 06:21:27] ========== ANIMALS API COMPLETED ==========
+
+[2026-02-02 06:21:35] ========== ANIMALS API CALLED ==========
+[2026-02-02 06:21:35] Request Method | Data: "GET"
+[2026-02-02 06:21:35] Request URI | Data: "\/doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-02-02 06:21:35] GET Parameters | Data: {"action":"list"}
+[2026-02-02 06:21:35] Attempting to include database connection file
+[2026-02-02 06:21:35] Database connection file included successfully
+[2026-02-02 06:21:35] PDO connection exists
+[2026-02-02 06:21:35] Action requested | Data: "list"
+[2026-02-02 06:21:35] LIST: Starting listAnimals function
+[2026-02-02 06:21:35] LIST: Records fetched | Data: 11
+[2026-02-02 06:21:35] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 02:24:44] ========== ANIMALS API CALLED ==========
+[2026-09-28 02:24:44] Request Method | Data: "GET"
+[2026-09-28 02:24:44] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 02:24:44] GET Parameters | Data: {"action":"list"}
+[2026-09-28 02:24:44] Attempting to include database connection file
+[2026-09-28 02:24:44] Database connection file included successfully
+[2026-09-28 02:24:44] PDO connection exists
+[2026-09-28 02:24:44] Action requested | Data: "list"
+[2026-09-28 02:24:44] LIST: Starting listAnimals function
+[2026-09-28 02:24:44] LIST: Records fetched | Data: 11
+[2026-09-28 02:24:44] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 02:35:32] ========== ANIMALS API CALLED ==========
+[2026-09-28 02:35:32] Request Method | Data: "GET"
+[2026-09-28 02:35:32] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 02:35:32] GET Parameters | Data: {"action":"list"}
+[2026-09-28 02:35:32] Attempting to include database connection file
+[2026-09-28 02:35:32] Database connection file included successfully
+[2026-09-28 02:35:32] PDO connection exists
+[2026-09-28 02:35:32] Action requested | Data: "list"
+[2026-09-28 02:35:32] LIST: Starting listAnimals function
+[2026-09-28 02:35:32] LIST: Records fetched | Data: 11
+[2026-09-28 02:35:32] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 03:04:48] ========== ANIMALS API CALLED ==========
+[2026-09-28 03:04:48] Request Method | Data: "GET"
+[2026-09-28 03:04:48] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 03:04:48] GET Parameters | Data: {"action":"list"}
+[2026-09-28 03:04:48] Attempting to include database connection file
+[2026-09-28 03:04:48] Database connection file included successfully
+[2026-09-28 03:04:48] PDO connection exists
+[2026-09-28 03:04:48] Action requested | Data: "list"
+[2026-09-28 03:04:48] LIST: Starting listAnimals function
+[2026-09-28 03:04:48] LIST: Records fetched | Data: 11
+[2026-09-28 03:04:48] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 03:04:50] ========== ANIMALS API CALLED ==========
+[2026-09-28 03:04:50] Request Method | Data: "GET"
+[2026-09-28 03:04:50] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 03:04:50] GET Parameters | Data: {"action":"list"}
+[2026-09-28 03:04:50] Attempting to include database connection file
+[2026-09-28 03:04:50] Database connection file included successfully
+[2026-09-28 03:04:50] PDO connection exists
+[2026-09-28 03:04:50] Action requested | Data: "list"
+[2026-09-28 03:04:50] LIST: Starting listAnimals function
+[2026-09-28 03:04:50] LIST: Records fetched | Data: 11
+[2026-09-28 03:04:50] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 03:10:39] ========== ANIMALS API CALLED ==========
+[2026-09-28 03:10:39] Request Method | Data: "GET"
+[2026-09-28 03:10:39] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 03:10:39] GET Parameters | Data: {"action":"list"}
+[2026-09-28 03:10:39] Attempting to include database connection file
+[2026-09-28 03:10:39] Database connection file included successfully
+[2026-09-28 03:10:39] PDO connection exists
+[2026-09-28 03:10:39] Action requested | Data: "list"
+[2026-09-28 03:10:39] LIST: Starting listAnimals function
+[2026-09-28 03:10:39] LIST: Records fetched | Data: 11
+[2026-09-28 03:10:39] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 07:48:54] ========== ANIMALS API CALLED ==========
+[2026-09-28 07:48:54] Request Method | Data: "GET"
+[2026-09-28 07:48:54] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 07:48:54] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:48:54] Attempting to include database connection file
+[2026-09-28 07:48:54] Database connection file included successfully
+[2026-09-28 07:48:54] PDO connection exists
+[2026-09-28 07:48:54] Action requested | Data: "list"
+[2026-09-28 07:48:54] LIST: Starting listAnimals function
+[2026-09-28 07:48:54] LIST: Records fetched | Data: 11
+[2026-09-28 07:48:54] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 07:48:55] ========== ANIMALS API CALLED ==========
+[2026-09-28 07:48:55] Request Method | Data: "GET"
+[2026-09-28 07:48:55] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 07:48:55] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:48:55] Attempting to include database connection file
+[2026-09-28 07:48:55] Database connection file included successfully
+[2026-09-28 07:48:55] PDO connection exists
+[2026-09-28 07:48:55] Action requested | Data: "list"
+[2026-09-28 07:48:55] LIST: Starting listAnimals function
+[2026-09-28 07:48:55] LIST: Records fetched | Data: 11
+[2026-09-28 07:48:55] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 07:52:48] ========== ANIMALS API CALLED ==========
+[2026-09-28 07:52:48] Request Method | Data: "GET"
+[2026-09-28 07:52:48] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 07:52:48] GET Parameters | Data: {"action":"list"}
+[2026-09-28 07:52:48] Attempting to include database connection file
+[2026-09-28 07:52:48] Database connection file included successfully
+[2026-09-28 07:52:48] PDO connection exists
+[2026-09-28 07:52:48] Action requested | Data: "list"
+[2026-09-28 07:52:48] LIST: Starting listAnimals function
+[2026-09-28 07:52:48] LIST: Records fetched | Data: 11
+[2026-09-28 07:52:48] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:06:30] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:06:30] Request Method | Data: "GET"
+[2026-09-28 08:06:30] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:06:30] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:06:30] Attempting to include database connection file
+[2026-09-28 08:06:30] Database connection file included successfully
+[2026-09-28 08:06:30] PDO connection exists
+[2026-09-28 08:06:30] Action requested | Data: "list"
+[2026-09-28 08:06:30] LIST: Starting listAnimals function
+[2026-09-28 08:06:30] LIST: Records fetched | Data: 11
+[2026-09-28 08:06:30] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:06:31] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:06:31] Request Method | Data: "GET"
+[2026-09-28 08:06:31] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:06:31] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:06:31] Attempting to include database connection file
+[2026-09-28 08:06:31] Database connection file included successfully
+[2026-09-28 08:06:31] PDO connection exists
+[2026-09-28 08:06:31] Action requested | Data: "list"
+[2026-09-28 08:06:31] LIST: Starting listAnimals function
+[2026-09-28 08:06:31] LIST: Records fetched | Data: 11
+[2026-09-28 08:06:31] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:28:57] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:28:57] Request Method | Data: "GET"
+[2026-09-28 08:28:57] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:28:57] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:28:57] Attempting to include database connection file
+[2026-09-28 08:28:57] Database connection file included successfully
+[2026-09-28 08:28:57] PDO connection exists
+[2026-09-28 08:28:57] Action requested | Data: "list"
+[2026-09-28 08:28:57] LIST: Starting listAnimals function
+[2026-09-28 08:28:57] LIST: Records fetched | Data: 11
+[2026-09-28 08:28:57] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:28:58] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:28:58] Request Method | Data: "GET"
+[2026-09-28 08:28:58] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:28:58] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:28:58] Attempting to include database connection file
+[2026-09-28 08:28:58] Database connection file included successfully
+[2026-09-28 08:28:58] PDO connection exists
+[2026-09-28 08:28:58] Action requested | Data: "list"
+[2026-09-28 08:28:58] LIST: Starting listAnimals function
+[2026-09-28 08:28:58] LIST: Records fetched | Data: 11
+[2026-09-28 08:28:58] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:29:00] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:29:00] Request Method | Data: "GET"
+[2026-09-28 08:29:00] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:29:00] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:29:00] Attempting to include database connection file
+[2026-09-28 08:29:00] Database connection file included successfully
+[2026-09-28 08:29:00] PDO connection exists
+[2026-09-28 08:29:00] Action requested | Data: "list"
+[2026-09-28 08:29:00] LIST: Starting listAnimals function
+[2026-09-28 08:29:00] LIST: Records fetched | Data: 11
+[2026-09-28 08:29:00] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:33:08] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:33:08] Request Method | Data: "GET"
+[2026-09-28 08:33:08] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:33:08] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:33:08] Attempting to include database connection file
+[2026-09-28 08:33:08] Database connection file included successfully
+[2026-09-28 08:33:08] PDO connection exists
+[2026-09-28 08:33:08] Action requested | Data: "list"
+[2026-09-28 08:33:08] LIST: Starting listAnimals function
+[2026-09-28 08:33:08] LIST: Records fetched | Data: 11
+[2026-09-28 08:33:08] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:33:09] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:33:09] Request Method | Data: "GET"
+[2026-09-28 08:33:09] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:33:09] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:33:09] Attempting to include database connection file
+[2026-09-28 08:33:09] Database connection file included successfully
+[2026-09-28 08:33:09] PDO connection exists
+[2026-09-28 08:33:09] Action requested | Data: "list"
+[2026-09-28 08:33:09] LIST: Starting listAnimals function
+[2026-09-28 08:33:09] LIST: Records fetched | Data: 11
+[2026-09-28 08:33:09] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-28 08:33:10] ========== ANIMALS API CALLED ==========
+[2026-09-28 08:33:10] Request Method | Data: "GET"
+[2026-09-28 08:33:10] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-28 08:33:10] GET Parameters | Data: {"action":"list"}
+[2026-09-28 08:33:10] Attempting to include database connection file
+[2026-09-28 08:33:10] Database connection file included successfully
+[2026-09-28 08:33:10] PDO connection exists
+[2026-09-28 08:33:10] Action requested | Data: "list"
+[2026-09-28 08:33:10] LIST: Starting listAnimals function
+[2026-09-28 08:33:10] LIST: Records fetched | Data: 11
+[2026-09-28 08:33:10] ========== ANIMALS API COMPLETED ==========
+
+[2026-09-30 05:40:07] ========== ANIMALS API CALLED ==========
+[2026-09-30 05:40:07] Request Method | Data: "GET"
+[2026-09-30 05:40:07] Request URI | Data: "\/Doc_vic\/STII_pages\/Farm\/api\/animals1.php?action=list"
+[2026-09-30 05:40:07] GET Parameters | Data: {"action":"list"}
+[2026-09-30 05:40:07] Attempting to include database connection file
+[2026-09-30 05:40:07] Database connection file included successfully
+[2026-09-30 05:40:07] PDO connection exists
+[2026-09-30 05:40:07] Action requested | Data: "list"
+[2026-09-30 05:40:07] LIST: Starting listAnimals function
+[2026-09-30 05:40:07] LIST: Records fetched | Data: 11
+[2026-09-30 05:40:07] ========== ANIMALS API COMPLETED ==========
+
