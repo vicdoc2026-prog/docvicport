@@ -371,7 +371,7 @@ $role = $_SESSION['role'];
             <div class="flex items-center justify-between mb-6">
               <div>
                 <h3 class="text-2xl font-bold text-gray-800 mb-1">Upcoming LTO Registrations</h3>
-                <p class="text-gray-600 text-sm">Soonest due dates (top 4)</p>
+                <p class="text-gray-600 text-sm">Due within 30 days · nearest first (max 4)</p>
               </div>
               <div class="icon-gradient amber calendar-pulse">
                 <i class="fas fa-calendar-check text-white text-2xl"></i>
@@ -387,7 +387,7 @@ $role = $_SESSION['role'];
 
             <div class="mt-6 pt-4 border-t border-gray-200">
               <a href="lto.php" class="link-arrow text-sm font-semibold text-amber-600 hover:text-amber-800 flex items-center gap-2">
-                View all upcoming registrations
+                View all vehicle registrations
                 <i class="fas fa-arrow-right"></i>
               </a>
             </div>
@@ -485,7 +485,7 @@ $role = $_SESSION['role'];
         container.innerHTML = `
           <div class="text-center py-8">
             <i class="fas fa-calendar-times text-gray-400 text-4xl mb-3"></i>
-            <p class="text-gray-500">No upcoming registrations found.</p>
+            <p class="text-gray-500">No registrations due within 30 days.</p>
           </div>
         `;
         return;
@@ -493,17 +493,16 @@ $role = $_SESSION['role'];
 
       items.slice(0, 4).forEach((row, index) => {
         const days = daysDiffFromToday(row.dueDate);
-        let badgeClass = 'success';
-        let badgeIcon = 'check-circle';
-        let statusText = `${days} day${days !== 1 ? 's' : ''} remaining`;
-        
-        if (days < 0) {
+        let badgeClass = 'warning';
+        let badgeIcon = 'calendar-check';
+        let statusText = `Upcoming · ${days} day${days !== 1 ? 's' : ''}`;
+        if (days <= 3) {
           badgeClass = 'danger';
           badgeIcon = 'exclamation-circle';
-          statusText = 'Overdue';
+          statusText = `Critical · ${days} day${days !== 1 ? 's' : ''}`;
         } else if (days <= 7) {
-          badgeClass = 'warning';
           badgeIcon = 'exclamation-triangle';
+          statusText = `Urgent · ${days} days`;
         }
 
         const el = document.createElement('div');
@@ -574,14 +573,16 @@ $role = $_SESSION['role'];
         }
       }, 300);
 
-      // Filter and sort upcoming registrations
+      // Show only valid registrations due within the next 30 days.
       const today = new Date(); today.setHours(0,0,0,0);
+      const thirtyDaysFromToday = new Date(today);
+      thirtyDaysFromToday.setDate(thirtyDaysFromToday.getDate() + 30);
       const upcoming = rows
         .filter(r => r.dueDate && isValidDateStr(r.dueDate))
         .filter(r => {
           const d = new Date(r.dueDate);
           d.setHours(0,0,0,0);
-          return d >= today;
+          return d >= today && d <= thirtyDaysFromToday;
         })
         .sort((a, b) => new Date(a.dueDate) - new Date(b.dueDate));
 
